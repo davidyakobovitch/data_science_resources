@@ -77,6 +77,8 @@
 1. [Awful AI](https://github.com/daviddao/awful-ai)
 2. [Curated Data Science Blogs](https://github.com/rushter/data-science-blogs)
 3. [Awesome ML Resources](https://github.com/josephmisiti/awesome-machine-learning)
+4. [Share Code - Binder](https://mybinder.org/)
+5. [Share Code - Gist](https://gist.github.com/)
 </details>
 <br>
 
