@@ -79,6 +79,7 @@
 3. [Awesome ML Resources](https://github.com/josephmisiti/awesome-machine-learning)
 4. [Share Code - Binder](https://mybinder.org/)
 5. [Share Code - Gist](https://gist.github.com/)
+6. [Visual Studio Code Editor](https://code.visualstudio.com/)
 </details>
 <br>
 
