@@ -36,14 +36,14 @@
 <details>
   <summary><strong>Data Science Textbooks :sparkles:</strong></summary>
   
-1. [Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_3?ie=UTF8&qid=1526338387&sr=8-3&keywords=python+data+analysis) and [Github Repo](https://github.com/wesm/pydata-book)
-2. [Feature Engineering](https://www.amazon.com/Feature-Engineering-Made-Easy-Identify/dp/1787287602/ref=sr_1_1_sspa?ie=UTF8&qid=1526338359&sr=8-1-spons&keywords=feature+engineering&psc=1) and [Github Repo](https://github.com/divyasusarla/features)
-3. [Machine Learning](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_1?ie=UTF8&qid=1526338338&sr=8-1&keywords=hands+on+machine+learning) and [Github Repo](https://github.com/ageron/handson-ml)
-4. [Python Data Science Handbook](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/ref=sr_1_1?ie=UTF8&qid=1526338596&sr=8-1&keywords=python+data+science+handbook) and [Github Repo](https://github.com/jakevdp/PythonDataScienceHandbook)
-5. [Introduction to ML/Deep Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B0742K7HYF/ref=sr_1_10?s=digital-text&ie=UTF8&qid=1527783430&sr=1-10&keywords=Natural+Language+Processing++Python) and [Github Repo](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
-6. [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_3?ie=UTF8&qid=1527956593&sr=8-3&keywords=deep+learning+with+python) and [Github Repo](https://github.com/fchollet/deep-learning-with-python-notebooks)
-7. [Tensorflow Deep Learning Cookbook](https://www.amazon.com/TensorFlow-Deep-Learning-Cookbook-artificial-intelligence/dp/1788293592/ref=sr_1_1_sspa?ie=UTF8&qid=1527956778&sr=8-1-spons&keywords=TensorFlow+Deep+Learning+Cookbook&psc=1) and [Github Repo](https://github.com/agulli/tensorflowCookbook)
-8. [Image Processing - Python](https://www.amazon.com/Machine-Learning-OpenCV-Intelligent-processing-ebook/dp/B0713QL4T3/ref=sr_1_6?ie=UTF8&qid=1527956819&sr=8-6&keywords=deep+learning+for+computer+vision+with+python) and [Github Repo](https://github.com/mbeyeler/opencv-machine-learning)
+1. [Data Analysis](https://amzn.to/2kXTyKT) and [Github Repo](https://github.com/wesm/pydata-book)
+2. [Feature Engineering](https://amzn.to/2sJaol0) and [Github Repo](https://github.com/divyasusarla/features)
+3. [Machine Learning](https://amzn.to/2sK5Pa5) and [Github Repo](https://github.com/ageron/handson-ml)
+4. [Python Data Science Handbook](https://amzn.to/2LD3vsw) and [Github Repo](https://github.com/jakevdp/PythonDataScienceHandbook)
+5. [Introduction to ML/Deep Learning](https://amzn.to/2kYxIGZ) and [Github Repo](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+6. [Deep Learning with Python](https://amzn.to/2l3rd65) and [Github Repo](https://github.com/fchollet/deep-learning-with-python-notebooks)
+7. [Tensorflow Deep Learning Cookbook](https://amzn.to/2sKHRvf) and [Github Repo](https://github.com/agulli/tensorflowCookbook)
+8. [Image Processing - Python](https://amzn.to/2xY516n) and [Github Repo](https://github.com/mbeyeler/opencv-machine-learning)
 </details>
 
 <br>
