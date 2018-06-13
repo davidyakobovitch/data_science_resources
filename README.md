@@ -15,6 +15,14 @@
 ###### Looking for sample data sets to practice? :file_folder: [Sample data set references here.](https://github.com/davidyakobovitch/sample_data_sets)
 </p>
 
+<p style="text-align: center;">
+
+###### Looking for project guidelines? :books: [Project Guidelines here.](https://github.com/davidyakobovitch/project_guidelines)
+</p>
+
+
+
+
 <details>
   <summary><strong>Statistics Resources :clipboard:</strong></summary>
 
