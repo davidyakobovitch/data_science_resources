@@ -52,6 +52,7 @@
 6. [Deep Learning with Python](https://amzn.to/2l3rd65) and [Github Repo](https://github.com/fchollet/deep-learning-with-python-notebooks)
 7. [Tensorflow Deep Learning Cookbook](https://amzn.to/2sKHRvf) and [Github Repo](https://github.com/agulli/tensorflowCookbook)
 8. [Image Processing - Python](https://amzn.to/2xY516n) and [Github Repo](https://github.com/mbeyeler/opencv-machine-learning)
+9. [Deep Learning - Goodfellow](https://amzn.to/2MRpU6D) and [Resources](http://www.deeplearningbook.org/exercises.html)
 </details>
 
 <br>
