@@ -7,7 +7,7 @@
 
 <p style="text-align: center;">
 
-###### Looking for markdown? :notebook_with_decorative_cover: [Markdown references here.](https://github.com/davidyakobovitch/markdown_reference)
+###### Looking for markdown? :notebook_with_decorative_cover: [Markdown references here.](https://github.com/davidyakobovitch/python_data_science_resources/blob/master/markdown_reference.md)
 </p>
 
 <p style="text-align: center;">
