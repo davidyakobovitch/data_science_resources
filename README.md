@@ -90,6 +90,7 @@
 4. [Share Code - Binder](https://mybinder.org/)
 5. [Share Code - Gist](https://gist.github.com/)
 6. [Visual Studio Code Editor](https://code.visualstudio.com/)
+7. [Scipy Lectures](http://www.scipy-lectures.org/)
 </details>
 <br>
 
