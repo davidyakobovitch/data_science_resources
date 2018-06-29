@@ -102,6 +102,10 @@ Regular text
 Ending the dropdown
 </details>
 
+---
+### Support is included for special characters
+These can be written as &#8721; `&#8721;` using [XML and HTML elements](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references). 
+
 <!--Internal hyperlinks <h1 class="title">
         True Happiness
     </h1>
