@@ -2,7 +2,7 @@
 
 <p style="text-align: center;">
 
-###### Looking for data? :question: [Open Data Sets here.](https://github.com/davidyakobovitch/python_data_science_resources/blob/master/open_data_sets)
+###### Looking for data? :question: [Open Data Sets here.](https://github.com/davidyakobovitch/python_data_science_resources/blob/master/open_data_sets.md)
 </p>
 
 <p style="text-align: center;">
