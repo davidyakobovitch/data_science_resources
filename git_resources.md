@@ -1,5 +1,4 @@
-https://www.toptal.com/git/tips-and-practices
-https://www.atlassian.com/git/tutorials/what-is-version-control
+### Git is an effective technology for maintaining code with revisions across all operating systems and technology environments.  This resource serves to offer a high-level cheat sheet on frequent and effective use cases for the Git version control system.
 
 git config --global user.name "David Yako"
 git config --global user.email "david@gmail.com"
@@ -34,6 +33,10 @@ git diff #--color-words #see changes before staging
 git diff --staged
 git status
 3. git commit -m "comment goes here" #commits the track change to log
+### Edit the Commit Message
+git commit --amend                  # start $EDITOR to edit the message
+git commit --amend -m "New message" # set the new message directly
+
 git status
 git log --patch cats.txt #Shows log and diff together
 4. git push origin master
@@ -67,7 +70,6 @@ git config --global http.proxy http://user:password@proxy.url
 git config --global https.proxy http://user:password@proxy.url
 
 # Merge conflicts between branches
-
 
 git checkout feature 
 git rebase -i master
@@ -121,6 +123,38 @@ git add -A  #git knows to remove it
 git commit --amend -v #to edit commit message 
 git rebase --onto HEAD [commitID] master 
 
-
 git rebase --continue 
 git rebase --skip 
+
+git rebase --interactive 
+# if you didn't specify any tracking information for this branch 
+# you will have to add upstream and remote branch information: 
+git rebase --interactive origin branch
+
+### Additional Git Options
+git reset HEAD~2        # undo last two commits, keep changes
+git reset --hard HEAD~2 # undo last two commits, discard changes  
+
+git checkout -- Gemfile # reset specified path 
+
+git reset filename          # or git remove --cached filename
+echo filename >> .gitingore # add it to .gitignore to avoid re-adding it
+
+git add forgotten_file 
+git commit --amend
+
+### Reverting Pushed Commits
+git revert c761f5c              # reverts the commit with the specified id
+ git revert HEAD^                # reverts the second to last commit
+ git revert develop~4..develop~2 # reverts a whole range of commits
+ 
+### undo the last commit, but don't create a revert commit 
+git revert -n HEAD
+
+### Avoid Repeated Merge conflicts
+git config --global rerere.enabled true
+
+### References:
+- https://www.toptal.com/git/tips-and-practices
+- https://www.atlassian.com/git/tutorials/what-is-version-control
+- https://gist.github.com/citizen428/16fb925fcca59ddfb652c7cb22809018
