@@ -94,6 +94,10 @@
 </details>
 <br>
 
+<strong>Technology Tools</strong>
+1. [Dual Arm Monitor](https://amzn.to/2O7AWom)
+2. [LED Mountable Monitor](https://amzn.to/2LNN0ym)
+
 ## Licenses
 License
 
