@@ -78,6 +78,8 @@
 5. [100 DS Questions](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)
 6. [100 Numpy Exercises](https://github.com/rougier/numpy-100)
 7. [100 Data Analyst Questions](https://www.dezyre.com/article/data-analyst-interview-questions-to-prepare-for-in-2018/324)
+8. [100 Days of ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+9. [Interview Cake](https://www.interviewcake.com/)
 </details>
 
 <br>
