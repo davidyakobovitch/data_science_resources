@@ -94,13 +94,25 @@ You can view a comprehensive list on the [emoji cheatsheet](https://www.webpagef
 ### Here is a dropdown 
  <details>
   <summary><strong>Dropdown below :bar_chart:</strong></summary>
-
+ 
 #### Here is text
 #### More text
 <br>
 Regular text
 Ending the dropdown
 </details>
+
+### Display code in markdown
+> If you would like to display code in markdown, start with the docstring characters of (triple titled '''python) or your preferred language.
+
+```python
+In [1]: variable = 'Hello World'
+
+In [2]: whos
+Variable   Type    Data/Info
+============================
+my_num     str     'Hello World'
+```
 
 ---
 ### Support is included for special characters
