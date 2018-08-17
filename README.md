@@ -93,6 +93,7 @@
 5. [Share Code - Gist](https://gist.github.com/)
 6. [Visual Studio Code Editor](https://code.visualstudio.com/)
 7. [Scipy Lectures](http://www.scipy-lectures.org/)
+8. [Python for Physics](http://physics.bu.edu/~pankajm/MLnotebooks.html)
 </details>
 <br>
 
