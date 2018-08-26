@@ -80,6 +80,7 @@
 7. [100 Data Analyst Questions](https://www.dezyre.com/article/data-analyst-interview-questions-to-prepare-for-in-2018/324)
 8. [100 Days of ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 9. [Interview Cake](https://www.interviewcake.com/)
+10. [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles)
 </details>
 
 <br>
