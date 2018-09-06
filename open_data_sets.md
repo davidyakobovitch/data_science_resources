@@ -3,6 +3,7 @@
 <details>
   <summary><strong>Open Data Sets :bar_chart:</strong></summary>
 
+0. [Google Datasets](https://toolbox.google.com/datasetsearch)
 1. [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 2. [India Open Data Gov](https://data.gov.in/)
 3. [Canada Open Data Gov](http://open.canada.ca/en)
