@@ -80,10 +80,11 @@
 4. [DS Preparation](http://www.acheronanalytics.com/acheron-blog/how-to-prepare-for-a-data-science-interview)
 5. [100 DS Questions](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)
 6. [100 Numpy Exercises](https://github.com/rougier/numpy-100)
-7. [100 Data Analyst Questions](https://www.dezyre.com/article/data-analyst-interview-questions-to-prepare-for-in-2018/324)
-8. [100 Days of ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-9. [Interview Cake](https://www.interviewcake.com/)
-10. [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles)
+7. [101 More Numpy Exercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
+8. [100 Data Analyst Questions](https://www.dezyre.com/article/data-analyst-interview-questions-to-prepare-for-in-2018/324)
+9. [100 Days of ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+10. [Interview Cake](https://www.interviewcake.com/)
+11. [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles)
 </details>
 
 <br>
