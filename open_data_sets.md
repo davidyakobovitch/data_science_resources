@@ -59,6 +59,7 @@
 9. [More APIs](https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/?st=j62tehhm&amp;sh=02579ee6)
 10. [Python APIs](http://www.pythonforbeginners.com/api/list-of-python-apis)
 11. [Python Wrappers APIs](https://github.com/realpython/list-of-python-api-wrappers)
+12. [Twitter Scraper](https://github.com/kennethreitz/twitter-scraper)
 </details>
 <br>
 <details>
