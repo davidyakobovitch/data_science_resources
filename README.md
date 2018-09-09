@@ -40,6 +40,9 @@
 2. [Hacker Rank](https://www.hackerrank.com/)
 3. [Project Euler](https://projecteuler.net/)
 4. [Hacker Earth](https://www.hackerearth.com/)
+5. [Codin Game](https://www.codingame.com/start)
+6. [LeetCode](https://leetcode.com/)
+7. [CoderByte](https://www.coderbyte.com/)
 </details>
 <br>
 <details>
