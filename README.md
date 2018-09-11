@@ -57,8 +57,9 @@
 7. [Tensorflow Deep Learning Cookbook](https://amzn.to/2sKHRvf) and [Github Repo](https://github.com/agulli/tensorflowCookbook)
 8. [Image Processing - Python](https://amzn.to/2xY516n) and [Github Repo](https://github.com/mbeyeler/opencv-machine-learning)
 9. [Deep Learning - Goodfellow](https://amzn.to/2MRpU6D) and [Resources](http://www.deeplearningbook.org/exercises.html)
-</details>
 10. [Tableau - Big Book of Dashboards](https://amzn.to/2x0XgZG)
+</details>
+
 
 <br>
 <details>
