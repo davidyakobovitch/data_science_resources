@@ -6,5 +6,9 @@
 > https://docs.aws.amazon.com/cli/latest/userguide/installing.html
 ### To View Markdown files on local system
 > https://github.com/joeyespo/grip
-### To install Anaconda Navigator on your operating system of choice
+
+## Anaconda
+#### To install Anaconda Navigator on your operating system of choice
 > https://www.anaconda.com/download/
+#### To uninstall Anaconda if it crashed on mac:
+> https://nektony.com/how-to/uninstall-anaconda-on-a-mac#1
