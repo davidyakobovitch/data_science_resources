@@ -58,6 +58,7 @@
 8. [Image Processing - Python](https://amzn.to/2xY516n) and [Github Repo](https://github.com/mbeyeler/opencv-machine-learning)
 9. [Deep Learning - Goodfellow](https://amzn.to/2MRpU6D) and [Resources](http://www.deeplearningbook.org/exercises.html)
 10. [Tableau - Big Book of Dashboards](https://amzn.to/2x0XgZG)
+11. [SQL Cookbook](https://amzn.to/2SKUpyj)
 </details>
 
 
