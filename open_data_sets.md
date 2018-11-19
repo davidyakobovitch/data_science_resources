@@ -35,6 +35,7 @@
 29. [Flowing Data](http://flowingdata.com/category/statistics/data-sources/)
 30. [More Data Sets](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)
 31. [NLP Data sets](https://gengo.ai/articles/the-best-25-datasets-for-natural-language-processing/)
+32. [Microsoft Research Open Data](https://msropendata.com/)
 </details>
 <br>
 <details>
