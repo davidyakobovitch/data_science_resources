@@ -15,3 +15,6 @@
 
 #### To remedy Macbook sound board failure with a reset of analog signals
 > Shift + Control + Alt + Power
+
+#### How to Customize Terminals
+> https://terminalsare.sexy/
