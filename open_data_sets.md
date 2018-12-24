@@ -45,6 +45,19 @@
 2. [Public Data](http://kevinchai.net/dataset)
 3. [Open Source Sports](http://www.opensourcesports.com/)
 </details>
+
+<br>
+<details>
+  <summary><strong>Data Competitions</strong></summary>
+  
+1. [Battlefin](https://www.battlefin.com/)
+2. [Numer.ai](https://numer.ai/)
+3. [Kaggle](https://www.kaggle.com/)
+4. [Quantopian](https://www.quantopian.com/)
+5. [QuantConnect](https://www.quantconnect.com/)
+</details>
+
+
 <br>
 <details>
   <summary><strong>APIs :computer:</strong></summary>
