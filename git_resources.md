@@ -1,3 +1,6 @@
+**Resources:**
+> [Customize Git Bash for Windows](https://alanbarber.com/post/how-to-customize-the-git-for-windows-bash-shell-prompt/)
+
 ### Git is an effective technology for maintaining code with revisions across all operating systems and technology environments.  This resource serves to offer a high-level cheat sheet on frequent and effective use cases for the Git version control system.
 
 git config --global user.name "David Yako"
