@@ -20,9 +20,6 @@
 ###### Looking for project guidelines? :books: [Project Guidelines here.](https://github.com/davidyakobovitch/project_guidelines)
 </p>
 
-
-
-
 <details>
   <summary><strong>Statistics Resources :clipboard:</strong></summary>
 
@@ -33,6 +30,7 @@
 5. [Stats in Nutshell](https://www.amazon.com/Statistics-Nutshell-Desktop-Quick-Reference/dp/1449316824/ref=sr_1_2?ie=UTF8&qid=1521666535&sr=8-2&keywords=stats+nutshell)
 </details>
 <br>
+
 <details>
   <summary><strong>Code Challenge Websites :grey_question:</strong></summary>
   
@@ -44,27 +42,25 @@
 6. [LeetCode](https://leetcode.com/)
 7. [CoderByte](https://www.coderbyte.com/)
 </details>
-<br>
-<details>
-  <summary><strong>Data Science Textbooks :sparkles:</strong></summary>
-  
-1. [Data Analysis](https://amzn.to/2kXTyKT) and [Github Repo](https://github.com/wesm/pydata-book)
-2. [Feature Engineering](https://amzn.to/2sJaol0) and [Github Repo](https://github.com/divyasusarla/features)
-3. [Machine Learning](https://amzn.to/2sK5Pa5) and [Github Repo](https://github.com/ageron/handson-ml)
-4. [Python Data Science Handbook](https://amzn.to/2LD3vsw) and [Github Repo](https://github.com/jakevdp/PythonDataScienceHandbook)
-5. [Introduction to ML/Deep Learning](https://amzn.to/2kYxIGZ) and [Github Repo](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
-6. [Deep Learning with Python](https://amzn.to/2l3rd65) and [Github Repo](https://github.com/fchollet/deep-learning-with-python-notebooks)
-7. [Tensorflow Deep Learning Cookbook](https://amzn.to/2sKHRvf) and [Github Repo](https://github.com/agulli/tensorflowCookbook)
-8. [Image Processing - Python](https://amzn.to/2xY516n) and [Github Repo](https://github.com/mbeyeler/opencv-machine-learning)
-9. [Deep Learning - Goodfellow](https://amzn.to/2MRpU6D) and [Resources](http://www.deeplearningbook.org/exercises.html)
-10. [Tableau - Big Book of Dashboards](https://amzn.to/2x0XgZG)
-11. [SQL Cookbook](https://amzn.to/2SKUpyj)
-</details>
 
+<br>
+<strong>Data Science Textbooks :sparkles:</strong>
+<ol>
+<li><a href="https://amzn.to/2kXTyKT">Data Analysis</a> and <a href="https://github.com/wesm/pydata-book">Github Repo</a></li>
+<li><a href="https://amzn.to/2sJaol0">Feature Engineering</a> and <a href="https://github.com/divyasusarla/features">Github Repo</a></li>
+<li><a href="https://amzn.to/2SKUpyj">SQL Cookbook</a></li>
+<li><a href="https://amzn.to/2sK5Pa5">Machine Learning</a> and <a href="https://github.com/ageron/handson-ml">Github Repo</a></li>
+<li><a href="https://amzn.to/2LD3vsw">Python Data Science Handbook</a> and <a href="https://github.com/jakevdp/PythonDataScienceHandbook">Git Repo</a></li>
+<li><a href="https://amzn.to/2kYxIGZ">Introduction to ML/Deep Learning</a> and <a href="https://github.com/rasbt/python-machine-learning-book-2nd-edition">Github Repo</a></li>
+<li><a href="https://amzn.to/2l3rd65">Deep Learning with Python</a> and <a href="https://github.com/fchollet/deep-learning-with-python-notebooks">Git Repo</a></li>
+<li><a href="https://amzn.to/2sKHRvf">Tensorflow Deep Learning Cookbook</a> and <a href="https://github.com/agulli/tensorflowCookbook">Git Repo</a></li>
+<li><a href="https://amzn.to/2xY516n">Image Processing - Python</a> and <a href="https://github.com/mbeyeler/opencv-machine-learning">Git Repo</a></li>
+<li><a href="https://amzn.to/2MRpU6D">Deep Learning - Goodfellow</a> and <a href="http://www.deeplearningbook.org/exercises.html">Resources</a></li>
+<li><a href="https://amzn.to/2x0XgZG">Tableau - Big Book of Dashboards</a></li>
 
 <br>
 <details>
-  <summary><strong>Github Resources :no_entry_sign:</strong></summary>
+<summary><strong>Github Resources :no_entry_sign:</strong></summary>
 
 1. [Software Carpentry](http://swcarpentry.github.io/git-novice/)
 2. [Github Lab](https://lab.github.com/)
@@ -73,9 +69,10 @@
 5. [Atlassian Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control)
 </details>
 
+
 <br>
 <details>
-  <summary><strong>Interview Resources :notebook:</strong></summary>
+<summary><strong>Interview Resources :notebook:</strong></summary>
 
 1. [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 2. [Cracking DS Interview](https://github.com/hopelessoptimism/cracking-the-data-science-interview)
