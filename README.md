@@ -1,47 +1,15 @@
-##### The following are python, statistics, and machine learning drop-down guides for resources, to assist you during your data science journey for learning and creating projects.  :thumbsup:
+The following are python, statistics, and machine learning drop-down guides for resources, to assist you during your data science journey for learning and creating projects.  :thumbsup:
 
-<p style="text-align: center;">
+<strong>Table of Contents:</strong>
 
-###### Looking for data? :question: [Open Data Sets here.](https://github.com/davidyakobovitch/python_data_science_resources/blob/master/open_data_sets.md)
-</p>
+<br />
 
-<p style="text-align: center;">
-
-###### Looking for markdown? :notebook_with_decorative_cover: [Markdown references here.](https://github.com/davidyakobovitch/python_data_science_resources/blob/master/markdown_reference.md)
-</p>
-
-<p style="text-align: center;">
-
-###### Looking for sample data sets to practice? :file_folder: [Sample data set references here.](https://github.com/davidyakobovitch/sample_data_sets)
-</p>
-
-<p style="text-align: center;">
-
-###### Looking for project guidelines? :books: [Project Guidelines here.](https://github.com/davidyakobovitch/project_guidelines)
-</p>
-
-<details>
-  <summary><strong>Statistics Resources :clipboard:</strong></summary>
-
-1. [Intro to Stats Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-2. [Fundamental Statistics](https://sites.google.com/site/fundamentalstatistics/chapter1)
-3. [Online Stats](http://onlinestatbook.com/2/)
-4. [Practical Statistics](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/ref=sr_1_4?ie=UTF8&qid=1521666554&sr=8-4&keywords=statistics)
-5. [Stats in Nutshell](https://www.amazon.com/Statistics-Nutshell-Desktop-Quick-Reference/dp/1449316824/ref=sr_1_2?ie=UTF8&qid=1521666535&sr=8-2&keywords=stats+nutshell)
-</details>
-<br>
-
-<details>
-  <summary><strong>Code Challenge Websites :grey_question:</strong></summary>
-  
-1. [Code Wars](https://www.codewars.com/)
-2. [Hacker Rank](https://www.hackerrank.com/)
-3. [Project Euler](https://projecteuler.net/)
-4. [Hacker Earth](https://www.hackerearth.com/)
-5. [Codin Game](https://www.codingame.com/start)
-6. [LeetCode](https://leetcode.com/)
-7. [CoderByte](https://www.coderbyte.com/)
-</details>
+<ol>
+  <li><a href="https://github.com/davidyakobovitch/project_guidelines">Capstone Project Guidelines</a></li>
+<li><a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/open_data_sets.md">Open Data Sets here</a></li>
+<li><a href="https://github.com/davidyakobovitch/sample_data_sets">Sample Data sets</a></li>
+<li><a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/markdown_reference.md">Markdown references</a></li>
+</ol>
 
 <br>
 <strong>Data Science Textbooks :sparkles:</strong>
@@ -57,54 +25,76 @@
 <li><a href="https://amzn.to/2xY516n">Image Processing - Python</a> and <a href="https://github.com/mbeyeler/opencv-machine-learning">Git Repo</a></li>
 <li><a href="https://amzn.to/2MRpU6D">Deep Learning - Goodfellow</a> and <a href="http://www.deeplearningbook.org/exercises.html">Resources</a></li>
 <li><a href="https://amzn.to/2x0XgZG">Tableau - Big Book of Dashboards</a></li>
+</ol>
 
 <br>
-<details>
-<summary><strong>Github Resources :no_entry_sign:</strong></summary>
-
-1. [Software Carpentry](http://swcarpentry.github.io/git-novice/)
-2. [Github Lab](https://lab.github.com/)
-3. [Toptal Git Tips](https://www.toptal.com/git/tips-and-practices)
-4. [Advanced Git](https://www.toptal.com/git/the-advanced-git-guide)
-5. [Atlassian Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control)
-</details>
-
+<strong>Statistics Resources :clipboard:</strong>
+<ol>
+<li><a href="http://www-bcf.usc.edu/~gareth/ISL/">Intro to Stats Learning</a></li>
+<li><a href="https://sites.google.com/site/fundamentalstatistics/chapter1">Fundamental Statistics</a></li>
+<li><a href="http://onlinestatbook.com/2/">Online Stats</a></li>
+<li><a href="https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/ref=sr_1_4?ie=UTF8&qid=1521666554&sr=8-4&keywords=statistics">Practical Statistics</a></li>
+<li><a href="https://www.amazon.com/Statistics-Nutshell-Desktop-Quick-Reference/dp/1449316824/ref=sr_1_2?ie=UTF8&qid=1521666535&sr=8-2&keywords=stats+nutshell">Stats in Nutshell</a></li>
+</ol>
 
 <br>
-<details>
-<summary><strong>Interview Resources :notebook:</strong></summary>
-
-1. [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-2. [Cracking DS Interview](https://github.com/hopelessoptimism/cracking-the-data-science-interview)
-3. [Springboard](https://www.springboard.com/blog/data-science-interviews-lessons/)
-4. [DS Preparation](http://www.acheronanalytics.com/acheron-blog/how-to-prepare-for-a-data-science-interview)
-5. [100 DS Questions](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)
-6. [100 Numpy Exercises](https://github.com/rougier/numpy-100)
-7. [101 More Numpy Exercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
-8. [100 Data Analyst Questions](https://www.dezyre.com/article/data-analyst-interview-questions-to-prepare-for-in-2018/324)
-9. [100 Days of ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-10. [Interview Cake](https://www.interviewcake.com/)
-11. [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles)
-</details>
+<strong>Code Challenge Websites :grey_question:</strong>
+<ol>  
+<li><a href="https://www.codewars.com/">Code Wars</a></li>
+<li><a href="https://www.hackerrank.com/">Hacker Rank</a></li>
+<li><a href="https://projecteuler.net/">Project Euler</a></li>
+<li><a href="https://www.hackerearth.com/">Hacker Earth</a></li>
+<li><a href="https://www.codingame.com/start">Codin Game</a></li>
+<li><a href="https://leetcode.com/">LeetCode</a></li>
+<li><a href="https://www.coderbyte.com/">CoderByte</a></li>
+</ol>
 
 <br>
-<details>
-  <summary><strong>Interesting Ad Hoc Resources :thought_balloon:</strong></summary>
+<strong>Github Resources :no_entry_sign:</strong>
+<ol>  
+<li><a href="http://swcarpentry.github.io/git-novice/">Software Carpentry</a></li>
+<li><a href="https://lab.github.com/">Github Lab</a></li>
+<li><a href="https://www.toptal.com/git/tips-and-practices">Toptal Git Tips</a></li>
+<li><a href="https://www.toptal.com/git/the-advanced-git-guide">Advanced Git</a></li>
+<li><a href="https://www.atlassian.com/git/tutorials/what-is-version-control">Atlassian Version Control</a></li>
+</ol>
 
-1. [Awful AI](https://github.com/daviddao/awful-ai)
-2. [Curated Data Science Blogs](https://github.com/rushter/data-science-blogs)
-3. [Awesome ML Resources](https://github.com/josephmisiti/awesome-machine-learning)
-4. [Share Code - Binder](https://mybinder.org/)
-5. [Share Code - Gist](https://gist.github.com/)
-6. [Visual Studio Code Editor](https://code.visualstudio.com/)
-7. [Scipy Lectures](http://www.scipy-lectures.org/)
-8. [Python for Physics](http://physics.bu.edu/~pankajm/MLnotebooks.html)
-</details>
+<br>
+<strong>Interview Resources :notebook:</strong>
+<ul>
+<li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
+<li><a href="https://github.com/hopelessoptimism/cracking-the-data-science-interview">Cracking DS Interview</a></li>
+<li><a href="https://www.springboard.com/blog/data-science-interviews-lessons/">Springboard</a></li>
+<li><a href="http://www.acheronanalytics.com/acheron-blog/how-to-prepare-for-a-data-science-interview">DS Preparation</a></li>
+<li><a href="https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184">100 DS Questions</a></li>
+<li><a href="https://github.com/rougier/numpy-100">100 Numpy Exercises</a></li>
+<li><a href="https://www.machinelearningplus.com/python/101-numpy-exercises-python/">101 More Numpy Exercises</a></li>
+<li><a href="https://www.dezyre.com/article/data-analyst-interview-questions-to-prepare-for-in-2018/324">100 Data Analyst Questions</a></li>
+<li><a href="https://github.com/Avik-Jain/100-Days-Of-ML-Code">100 Days of ML</a></li>
+<li><a href="https://www.interviewcake.com/">Interview Cake</a></li>
+<li><a href="https://github.com/ajcr/100-pandas-puzzles">100 Pandas Puzzles</a></li>
+</ul>
+
 <br>
 
-<strong>Technology Tools</strong>
-1. [Dual Arm Monitor](https://amzn.to/2O7AWom)
-2. [LED Mountable Monitor](https://amzn.to/2LNN0ym)
+<strong>Ad Hoc Resources :thought_balloon:</strong>
+<ul>
+<li><a href="https://github.com/daviddao/awful-ai">Awful AI</a></li>
+<li><a href="https://github.com/rushter/data-science-blogs">Curated Data Science Blogs</a></li>
+<li><a href="https://github.com/josephmisiti/awesome-machine-learning">Awesome ML Resources</a></li>
+<li><a href="https://mybinder.org/">Share Code - Binder</a></li>
+<li><a href="https://gist.github.com/">Share Code - Gist</a></li>
+<li><a href="https://code.visualstudio.com/">Visual Studio Code Editor</a></li>
+<li><a href="http://www.scipy-lectures.org/">Scipy Lectures</a></li>
+<li><a href="http://physics.bu.edu/~pankajm/MLnotebooks.html">Python for Physics</a></li>
+</ul>
+<br>
+
+<strong>Physical Workspace Tech Items</strong>
+<ul>
+<li><a href="https://amzn.to/2O7AWom">Dual Arm Monitor</a></li>
+<li><a href="https://amzn.to/2LNN0ym">LED Mountable Monitor</a></li>
+</ul>
 
 ## Licenses
 License
