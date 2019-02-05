@@ -158,32 +158,32 @@ git revert -n HEAD
 git config --global rerere.enabled true
 
 ### Gitbash Shortcuts
-Ctrl-a		Move to the start of the line.
-Ctrl-e		Move to the end of the line.
-Ctrl-b		Move back one character.
-Alt-b		Move back one word.
-Ctrl-f		Move forward one character.
-Alt-f		Move forward one word.
-Ctrl-] x	Where x is any character, moves the cursor forward to the next occurance of x.
-Alt-Ctrl-] x	Where x is any character, moves the cursor backwards to the previous occurance of x.
-Ctrl-u		Delete from the cursor to the beginning of the line.
-Ctrl-k		Delete from the cursor to the end of the line.
-Ctrl-w		Delete from the cursor to the start of the word.
-Esc-Del		Delete previous word (may not work, instead try Esc followed by Backspace)
-Ctrl-y		Pastes text from the clipboard.
-Ctrl-l		Clear the screen leaving the current line at the top of the screen.
-Ctrl-x Ctrl-u	Undo the last changes. Ctrl-_ does the same
-Alt-r		Undo all changes to the line.
-Alt-Ctrl-e	Expand command line.
-Ctrl-r		Incremental reverse search of history.
-Alt-p		Non-incremental reverse search of history.
-!!		Execute last command in history
-!abc		Execute last command in history beginning with abc
-!abc:p		Print last command in history beginning with abc
-!n		Execute nth command in history
-!$		Last argument of last command
-!^		First argument of last command
-^abc^xyz	Replace first occurance of abc with xyz in last command and execute it
+<li>Ctrl-a		Move to the start of the line.</li>
+<li>Ctrl-e		Move to the end of the line.</li>
+<li>Ctrl-b		Move back one character.</li>
+<li>Alt-b		Move back one word.</li>
+<li>Ctrl-f		Move forward one character.</li>
+<li>Alt-f		Move forward one word.</li>
+<li>Ctrl-] x	Where x is any character, moves the cursor forward to the next occurance of x.</li>
+<li>Alt-Ctrl-] x	Where x is any character, moves the cursor backwards to the previous occurance of x.</li>
+<li>Ctrl-u		Delete from the cursor to the beginning of the line.</li>
+<li>Ctrl-k		Delete from the cursor to the end of the line.</li>
+<li>Ctrl-w		Delete from the cursor to the start of the word.</li>
+<li>Esc-Del		Delete previous word (may not work, instead try Esc followed by Backspace)</li>
+<li>Ctrl-y		Pastes text from the clipboard.</li>
+<li>Ctrl-l		Clear the screen leaving the current line at the top of the screen.</li>
+<li>Ctrl-x Ctrl-u	Undo the last changes. <li>Ctrl-_ does the same</li>
+<li>Alt-r		Undo all changes to the line.</li>
+<li>Alt-Ctrl-e	Expand command line.</li>
+<li>Ctrl-r		Incremental reverse search of history.</li>
+<li>Alt-p		Non-incremental reverse search of history.</li>
+<li>!!		Execute last command in history</li>
+<li>!abc		Execute last command in history beginning with abc</li>
+<li>!abc:p		Print last command in history beginning with abc</li>
+<li>!n		Execute nth command in history</li>
+<li>!$		Last argument of last command</li>
+<li>!^		First argument of last command</li>
+<li>^abc^xyz	Replace first occurance of abc with xyz in last command and execute it</li>
 
 ### References:
 - https://www.toptal.com/git/tips-and-practices
