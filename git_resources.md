@@ -1,5 +1,10 @@
-**Resources:**
-> [Customize Git Bash for Windows](https://alanbarber.com/post/how-to-customize-the-git-for-windows-bash-shell-prompt/)
+<font size="4em"><strong>Resources:</strong></font>
+
+<ul>
+<li><a href="https://alanbarber.com/post/how-to-customize-the-git-for-windows-bash-shell-prompt/">Customize Git Bash for Windowss</a></li>
+<li><a href="http://kurtdowswell.com/software-development/git-bash-aliases/">Set Aliases Gitbash Windows</a></li>
+</li>
+</ul>
 
 ### Git is an effective technology for maintaining code with revisions across all operating systems and technology environments.  This resource serves to offer a high-level cheat sheet on frequent and effective use cases for the Git version control system.
 
