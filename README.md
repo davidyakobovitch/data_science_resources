@@ -5,7 +5,7 @@ The following are python, statistics, and machine learning drop-down guides for 
 <br />
 
 <ol>
-  <li><a href="https://github.com/davidyakobovitch/project_guidelines">Capstone Project Guidelines</a></li>
+<li><a href="https://github.com/davidyakobovitch/data_science_standards">Data Science Standards</a></li>
 <li><a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/open_data_sets.md">Open Data Sets here</a></li>
 <li><a href="https://github.com/davidyakobovitch/sample_data_sets">Sample Data sets</a></li>
 <li><a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/markdown_reference.md">Markdown references</a></li>
