@@ -77,8 +77,9 @@ The following are python, statistics, and machine learning drop-down guides for 
 
 <br>
 
-<strong>Ad Hoc Resources :thought_balloon:</strong>
+<strong>More Resources :thought_balloon:</strong>
 <ul>
+<li><a href="https://paperswithcode.com/sota">State of the Art ML Papers</ai></li>
 <li><a href="https://github.com/daviddao/awful-ai">Awful AI</a></li>
 <li><a href="https://github.com/rushter/data-science-blogs">Curated Data Science Blogs</a></li>
 <li><a href="https://github.com/josephmisiti/awesome-machine-learning">Awesome ML Resources</a></li>
