@@ -12,6 +12,7 @@
 > https://www.anaconda.com/download/
 #### To uninstall Anaconda if it crashed on mac:
 > https://nektony.com/how-to/uninstall-anaconda-on-a-mac#1
+> https://docs.anaconda.com/anaconda/install/uninstall/
 
 #### To remedy Macbook sound board failure with a reset of analog signals
 > Shift + Control + Alt + Power
