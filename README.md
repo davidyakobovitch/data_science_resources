@@ -64,6 +64,7 @@ The following are python, statistics, and machine learning drop-down guides for 
 <ul>
 <li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
 <li><a href="https://github.com/hopelessoptimism/cracking-the-data-science-interview">Cracking DS Interview</a></li>
+<li><a href="https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850">Cracking Coding Interviews</a></li>
 <li><a href="https://www.springboard.com/blog/data-science-interviews-lessons/">Springboard</a></li>
 <li><a href="http://www.acheronanalytics.com/acheron-blog/how-to-prepare-for-a-data-science-interview">DS Preparation</a></li>
 <li><a href="https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184">100 DS Questions</a></li>
