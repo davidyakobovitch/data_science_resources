@@ -46,7 +46,12 @@ The following are python, statistics, and machine learning drop-down guides for 
 <li><a href="https://www.hackerearth.com/">Hacker Earth</a></li>
 <li><a href="https://www.codingame.com/start">Codin Game</a></li>
 <li><a href="https://leetcode.com/">LeetCode</a></li>
+<li><a href="https://www.battlefin.com/">BattleFine</a></li>
+<li><a href="https://numer.ai/">NumerAI</a></li>
+<li><a href="https://www.kaggle.com/">Kaggle</a></li>
 <li><a href="https://www.coderbyte.com/">CoderByte</a></li>
+<li><a href="https://www.quantopian.com/">Quantopian</a></li>
+<li><a href="https://www.quantconnect.com/">QuantConnect</a></li>
 </ol>
 
 <br>
