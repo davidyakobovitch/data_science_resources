@@ -1,8 +1,6 @@
-##### The following are drop-down guides for open data resources, to assist you during your data science journey for creating projects and accessing open source data recommendations.  :thumbsup:
+Open data resources for Capstone Projects and your Data Science Journey.
 
-<details>
-  <summary><strong>Open Data Sets :bar_chart:</strong></summary>
-
+<strong>Open Data Sets & Portals</strong>:
 0. [Google Datasets](https://toolbox.google.com/datasetsearch)
 1. [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 2. [India Open Data Gov](https://data.gov.in/)
@@ -36,63 +34,25 @@
 30. [More Data Sets](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)
 31. [NLP Data sets](https://gengo.ai/articles/the-best-25-datasets-for-natural-language-processing/)
 32. [Microsoft Research Open Data](https://msropendata.com/)
-</details>
-<br>
-<details>
-  <summary><strong>Data Portals :books:</strong></summary>
+33. [Github Code Search](http://jakubdziworski.github.io/tools/2016/08/26/github-code-advances-search-programmers-goldmine.html)
+34. [Public Data](http://kevinchai.net/dataset)
+35. [Open Source Sports](http://www.opensourcesports.com/)
   
-1. [Github Code Search](http://jakubdziworski.github.io/tools/2016/08/26/github-code-advances-search-programmers-goldmine.html)
-2. [Public Data](http://kevinchai.net/dataset)
-3. [Open Source Sports](http://www.opensourcesports.com/)
-</details>
-
-<br>
-<details>
-  <summary><strong>Data Competitions</strong></summary>
-  
-1. [Battlefin](https://www.battlefin.com/)
-2. [Numer.ai](https://numer.ai/)
-3. [Kaggle](https://www.kaggle.com/)
-4. [Quantopian](https://www.quantopian.com/)
-5. [QuantConnect](https://www.quantconnect.com/)
-</details>
-
-
-<br>
-<details>
-  <summary><strong>APIs :computer:</strong></summary>
-  
-1. [Public APIs](https://github.com/toddmotto/public-apis)
-2. [Programmable Web](https://www.programmableweb.com/)
-3. [Zillow](https://www.zillow.com/howto/api/APIOverview.htm)
-4. [Wikipedia](https://www.mediawiki.org/wiki/API:Main_page)
-5. [Google Scholar](https://github.com/ckreibich/scholar.py)
-6.  [Reddit](https://www.reddit.com/dev/api)
-7.  [Twitter](https://www.programmableweb.com/api/twitter)
-8.  [Alpha-Vantage](https://www.alphavantage.co/documentation/)
-9. [More APIs](https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/?st=j62tehhm&amp;sh=02579ee6)
-10. [Python APIs](http://www.pythonforbeginners.com/api/list-of-python-apis)
-11. [Python Wrappers APIs](https://github.com/realpython/list-of-python-api-wrappers)
-12. [Twitter Scraper](https://github.com/kennethreitz/twitter-scraper)
-</details>
-<br>
-<details>
-  <summary><strong>Where to Find Data :question:</strong></summary>
-  
-1. [Quora](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
-</details>
-
-
-<br>
-<details>
-  <summary><strong>Interview Resources :pencil2:</strong></summary>
-  
-1. :book: [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
-) 
-2. :clipboard: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-3. :scroll: [Interview Cake](https://www.interviewcake.com/)
-</details>
-<br>
+<strong>APIs</strong>:
+<ol>
+<li><a href="https://github.com/toddmotto/public-apis">Public APIs</a></li>
+<li><a href="https://www.programmableweb.com/">Programmable Web</a></li>
+<li><a href="https://www.zillow.com/howto/api/APIOverview.htm">Zillow</a></li>
+<li><a href="https://www.mediawiki.org/wiki/API:Main_page">Wikipedia</a></li>
+<li><a href="https://github.com/ckreibich/scholar.py">Google Scholar</a></li>
+<li><a href="https://www.reddit.com/dev/api">Reddit</a></li>
+<li><a href="https://www.programmableweb.com/api/twitter">Twitter</a></li>
+<li><a href="https://www.alphavantage.co/documentation/">AlphaVantage</a></li>
+<li><a href="https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/?st=j62tehhm&amp;sh=02579ee6">More APIs</a></li>
+<li><a href="http://www.pythonforbeginners.com/api/list-of-python-apis">Python APIs</a></li>
+<li><a href="https://github.com/realpython/list-of-python-api-wrappers">Python Wrapper APIs</a></li>
+<li><a href="https://github.com/kennethreitz/twitter-scraper">Twitter Scraper</a></li>
+</ol>
 
 ## Licenses
 License
