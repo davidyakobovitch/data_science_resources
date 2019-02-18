@@ -13,6 +13,8 @@
 #### To uninstall Anaconda if it crashed on mac:
 > https://nektony.com/how-to/uninstall-anaconda-on-a-mac#1
 > https://docs.anaconda.com/anaconda/install/uninstall/
+#### To find your Anaconda Path:
+> https://docs.anaconda.com/anaconda/user-guide/tasks/integration/python-path/
 
 #### To remedy Macbook sound board failure with a reset of analog signals
 > Shift + Control + Alt + Power
