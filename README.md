@@ -96,6 +96,7 @@ The following are python, statistics, and machine learning drop-down guides for 
 <li><a href="http://physics.bu.edu/~pankajm/MLnotebooks.html">Python for Physics</a></li>
 <li><a href="https://playground.tensorflow.org">AI Demo 1: TensorFlow Playground</a></li>
 <li><a href="https://poloclub.github.io/ganlab/">AI Demo 2: GAN Lab</a></li>
+<li><a href="https://selfdrivingcars.mit.edu/deeptraffic/">AI Demo 3: Self-driving</a></li>
 </ul>
 <br>
 
