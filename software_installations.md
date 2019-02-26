@@ -15,6 +15,8 @@
 > https://docs.anaconda.com/anaconda/install/uninstall/
 #### To find your Anaconda Path:
 > https://docs.anaconda.com/anaconda/user-guide/tasks/integration/python-path/
+#### Anaconda Issues:
+> https://github.com/ContinuumIO/anaconda-issues/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
 
 #### To remedy Macbook sound board failure with a reset of analog signals
 > Shift + Control + Alt + Power
