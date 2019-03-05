@@ -85,7 +85,8 @@ The following are python, statistics, and machine learning drop-down guides for 
 
 <strong>More Resources :thought_balloon:</strong>
 <ul>
-<li><a href="https://paperswithcode.com/sota">State of the Art ML Papers</ai></li>
+<li><a href="https://paperswithcode.com/sota">State of the Art ML Papers</a></li>
+  <li><a href="http://arxiv-sanity.com/top">Top papers on ArXiv</a></li>
 <li><a href="https://github.com/daviddao/awful-ai">Awful AI</a></li>
 <li><a href="https://github.com/rushter/data-science-blogs">Curated Data Science Blogs</a></li>
 <li><a href="https://github.com/josephmisiti/awesome-machine-learning">Awesome ML Resources</a></li>
