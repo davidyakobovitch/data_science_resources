@@ -20,6 +20,7 @@ The following are python, statistics, and machine learning drop-down guides for 
 <li><a href="https://amzn.to/2sK5Pa5">Machine Learning</a> and <a href="https://github.com/ageron/handson-ml">Github Repo</a></li>
 <li><a href="https://amzn.to/2LD3vsw">Python Data Science Handbook</a> and <a href="https://github.com/jakevdp/PythonDataScienceHandbook">Git Repo</a></li>
 <li><a href="https://amzn.to/2kYxIGZ">Introduction to ML/Deep Learning</a> and <a href="https://github.com/rasbt/python-machine-learning-book-2nd-edition">Github Repo</a></li>
+<li><a href="https://christophm.github.io/interpretable-ml-book/">Interpretable Machine Learning</a></li>
 <li><a href="https://amzn.to/2l3rd65">Deep Learning with Python</a> and <a href="https://github.com/fchollet/deep-learning-with-python-notebooks">Git Repo</a></li>
 <li><a href="https://amzn.to/2sKHRvf">Tensorflow Deep Learning Cookbook</a> and <a href="https://github.com/agulli/tensorflowCookbook">Git Repo</a></li>
 <li><a href="https://amzn.to/2xY516n">Image Processing - Python</a> and <a href="https://github.com/mbeyeler/opencv-machine-learning">Git Repo</a></li>
