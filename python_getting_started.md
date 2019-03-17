@@ -45,6 +45,9 @@ https://en.wikipedia.org/wiki/Big_O_notation
 Python Base Functions:
 https://docs.python.org/3/library/functions.html
 
+List Comprehensions in Python:
+https://hackernoon.com/list-comprehension-in-python-8895a785550b
+
 Merge Lists into a Tuple:
 https://stackoverflow.com/questions/2407398/how-to-merge-lists-into-a-list-of-tuples
 
