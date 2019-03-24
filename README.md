@@ -14,7 +14,7 @@ The following are python, statistics, and machine learning drop-down guides for 
 <br>
 <strong>Pre-Data Science Textbooks</strong>
 <ol>
-<li><a href="http://openbookproject.net/thinkcs/python/english3e/">How to Think like a Computer Scientist</a></li
+<li><a href="http://openbookproject.net/thinkcs/python/english3e/">How to Think like a Computer Scientist</a></li>
 </ol>
   
 <br>
