@@ -12,6 +12,12 @@ The following are python, statistics, and machine learning drop-down guides for 
 </ol>
 
 <br>
+<strong>Pre-Data Science Textbooks</strong>
+<ol>
+<li><a href="http://openbookproject.net/thinkcs/python/english3e/">How to Think like a Computer Scientist</a></li
+</ol>
+  
+<br>
 <strong>Data Science Textbooks :sparkles:</strong>
 <ol>
 <li><a href="https://amzn.to/2kXTyKT">Data Analysis</a> and <a href="https://github.com/wesm/pydata-book">Github Repo</a></li>
