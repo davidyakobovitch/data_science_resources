@@ -39,6 +39,7 @@ Open data resources for Capstone Projects and your Data Science Journey.
 33. [Github Code Search](http://jakubdziworski.github.io/tools/2016/08/26/github-code-advances-search-programmers-goldmine.html)
 34. [Public Data](http://kevinchai.net/dataset)
 35. [Open Source Sports](http://www.opensourcesports.com/)
+36. [Machine Learning Datasets](https://www.datasetlist.com/)
   
 <strong>APIs</strong>:
 <ol>
