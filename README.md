@@ -44,10 +44,10 @@ The following are python, statistics, and machine learning drop-down guides for 
 <li><a href="https://www.amazon.com/Statistics-Nutshell-Desktop-Quick-Reference/dp/1449316824/ref=sr_1_2?ie=UTF8&qid=1521666535&sr=8-2&keywords=stats+nutshell">Stats in Nutshell</a></li>
 </ol>
 
-<br>
-<strong>Code Challenge Websites :grey_question:</strong>
-<ol>  
-<li><a href="https://www.codewars.com/">Code Wars</a></li>
+##### :black_small_square: Code Challenge Websites
+<p> 
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.codewars.com/"><b>Code Wars</b></a> - Programming challenges that are progressively harder.<br>
+<ol>
 <li><a href="https://www.hackerrank.com/">Hacker Rank</a></li>
 <li><a href="https://projecteuler.net/">Project Euler</a></li>
 <li><a href="https://www.hackerearth.com/">Hacker Earth</a></li>
