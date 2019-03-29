@@ -57,3 +57,12 @@ https://stackoverflow.com/questions/43831493/how-to-append-multiple-input-in-lis
 
 Remove Multiple Items - List Comprehension:
 https://stackoverflow.com/questions/36268749/remove-multiple-items-from-a-python-list-in-just-one-statement
+
+How can I run more effective queries than masks in Python? 
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.query.html
+
+How can evaluate new columns in one line of code in Python?
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.eval.html
+
+How can I display multiple descriptors in Python?
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.agg.html
