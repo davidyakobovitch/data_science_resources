@@ -66,3 +66,6 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.eval
 
 How can I display multiple descriptors in Python?
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.agg.html
+
+How can I rename a column in Pandas?
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rename.html
