@@ -69,3 +69,6 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.agg.
 
 How can I rename a column in Pandas?
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rename.html
+
+How do I resolve Jupyter issues with Server and Kernels?
+https://github.com/jupyter/notebook/issues/2844
