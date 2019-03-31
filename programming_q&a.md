@@ -83,3 +83,5 @@ https://github.com/joeyespo/grip
 How do path files get executed in UNIX if a duplicate exists?
 https://unix.stackexchange.com/questions/335723/if-2-commands-with-same-filename-exists-in-path-variable-which-will-get-execute
 
+Where is Jupyter Servers/Kernels stored in case I need to clear for Jupyter memory constraints?
+~/Library/Jupyter/runtime
