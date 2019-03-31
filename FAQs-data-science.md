@@ -85,3 +85,6 @@ https://unix.stackexchange.com/questions/335723/if-2-commands-with-same-filename
 
 Where is Jupyter Servers/Kernels stored in case I need to clear for Jupyter memory constraints?
 ~/Library/Jupyter/runtime
+
+What is the difference between Docker and Virtual Machines?
+https://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-virtual-machine
