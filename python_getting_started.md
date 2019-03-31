@@ -72,3 +72,11 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rena
 
 How do I resolve Jupyter issues with Server and Kernels?
 https://github.com/jupyter/notebook/issues/2844
+
+What is a handler?
+https://stackoverflow.com/questions/12312926/why-use-handler
+https://docs.python.org/3/library/logging.handlers.html
+
+How can I view Markdown locally on my machine in the browser?
+https://github.com/joeyespo/grip
+
