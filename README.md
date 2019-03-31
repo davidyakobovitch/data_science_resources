@@ -1,22 +1,25 @@
-The following are python, statistics, and machine learning drop-down guides for resources, to assist you during your data science journey for learning and creating projects.  :thumbsup:
-
-<strong>Table of Contents:</strong>
-
+# Data Science Resources & Data Science Standards
+The following are python, statistics, and machine learning recommended resources, to assist you during your data science and machine learnings studies.
 <br />
 
-<ol>
-<li><a href="https://github.com/davidyakobovitch/data_science_standards">Data Science Standards</a></li>
-<li><a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/open_data_sets.md">Open Data Sets here</a></li>
-<li><a href="https://github.com/davidyakobovitch/sample_data_sets">Sample Data sets</a></li>
-<li><a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/markdown_reference.md">Markdown references</a></li>
-</ol>
+##### :black_small_square: Essential Links
+<p> 
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/data_science_standards"><b>Data Science Standards</b></a> - How to Operationalize Machine Learning Pipelines<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/open_data_sets.md"><b>Open Source Data Sets</b></a> - Data Lakes, APIs & Sets for Machine Learning<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/markdown_reference.md"><b>Markdown</b></a> -  Framework for Formatting Text<br>  
+ 
+##### :black_small_square: Pre-Data Science Texts
+<p> 
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://openbookproject.net/thinkcs/python/english3e/"><b>How to Think Like a Computer Scientist</b></a> - Open source for Scientific Computing<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://amzn.to/2x0XgZG"><b>Tableau</b></a> - Big Book of Dashboards<br>
 
-<br>
-<strong>Pre-Data Science Textbooks</strong>
-<ol>
-<li><a href="http://openbookproject.net/thinkcs/python/english3e/">How to Think like a Computer Scientist</a></li>
-<li><a href="https://amzn.to/2x0XgZG">Tableau - Big Book of Dashboards</a></li>
-</ol>
+##### :black_small_square: Version Control in Git
+<p> 
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://swcarpentry.github.io/git-novice/"><b>Software Carpentry</b></a> - Open source for Scientific Computing<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://lab.github.com/"><b>Github Lab</b></a> - Learn Git on Github<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.toptal.com/git/tips-and-practices"><b>Git on Toptal</b></a> - Best Practices for Git<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.toptal.com/git/the-advanced-git-guide"><b>Toptal - Tips</b></a> - Advanced Topics<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.atlassian.com/git/tutorials/what-is-version-control"><b>Atlassian</b></a> - Version Control Topics<br>
 
 <br>
 <strong>Database Textbooks</strong>
@@ -53,32 +56,14 @@ The following are python, statistics, and machine learning drop-down guides for 
 <li><a href="https://www.amazon.com/Statistics-Nutshell-Desktop-Quick-Reference/dp/1449316824/ref=sr_1_2?ie=UTF8&qid=1521666535&sr=8-2&keywords=stats+nutshell">Stats in Nutshell</a></li>
 </ol>
 
-##### :black_small_square: Code Challenge Websites
+##### :black_small_square: Code Challenges
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.codewars.com/"><b>Code Wars</b></a> - Programming challenges that are progressively harder.<br>
-<ol>
-<li><a href="https://www.hackerrank.com/">Hacker Rank</a></li>
-<li><a href="https://projecteuler.net/">Project Euler</a></li>
-<li><a href="https://www.hackerearth.com/">Hacker Earth</a></li>
-<li><a href="https://www.codingame.com/start">Codin Game</a></li>
-<li><a href="https://leetcode.com/">LeetCode</a></li>
-<li><a href="https://www.battlefin.com/">BattleFine</a></li>
-<li><a href="https://numer.ai/">NumerAI</a></li>
-<li><a href="https://www.kaggle.com/">Kaggle</a></li>
-<li><a href="https://www.coderbyte.com/">CoderByte</a></li>
-<li><a href="https://www.quantopian.com/">Quantopian</a></li>
-<li><a href="https://www.quantconnect.com/">QuantConnect</a></li>
-</ol>
-
-<br>
-<strong>Github Resources :no_entry_sign:</strong>
-<ol>  
-<li><a href="http://swcarpentry.github.io/git-novice/">Software Carpentry</a></li>
-<li><a href="https://lab.github.com/">Github Lab</a></li>
-<li><a href="https://www.toptal.com/git/tips-and-practices">Toptal Git Tips</a></li>
-<li><a href="https://www.toptal.com/git/the-advanced-git-guide">Advanced Git</a></li>
-<li><a href="https://www.atlassian.com/git/tutorials/what-is-version-control">Atlassian Version Control</a></li>
-</ol>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://leetcode.com/"><b>Leetcode</b></a> - Progressively more challenging questions<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackerrank.com/"><b>Hacker Rank</b></a> - Ranked challenges<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://projecteuler.net"><b>Project Euler</b></a> - Weekly released challenges<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.kaggle.com/"><b>Kaggle</b></a> - Data Science competitions<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.coderbyte.com/"><b>CoderByte</b></a> - Code challenges from FAANG companies<br>
 
 <br>
 <strong>Interview Resources :notebook:</strong>
