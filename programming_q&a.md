@@ -80,3 +80,6 @@ https://docs.python.org/3/library/logging.handlers.html
 How can I view Markdown locally on my machine in the browser?
 https://github.com/joeyespo/grip
 
+How do path files get executed in UNIX if a duplicate exists?
+https://unix.stackexchange.com/questions/335723/if-2-commands-with-same-filename-exists-in-path-variable-which-will-get-execute
+
