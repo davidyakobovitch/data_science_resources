@@ -15,24 +15,33 @@ The following are python, statistics, and machine learning drop-down guides for 
 <strong>Pre-Data Science Textbooks</strong>
 <ol>
 <li><a href="http://openbookproject.net/thinkcs/python/english3e/">How to Think like a Computer Scientist</a></li>
-</ol>
-  
-<br>
-<strong>Data Science Textbooks :sparkles:</strong>
-<ol>
-<li><a href="https://amzn.to/2kXTyKT">Data Analysis</a> and <a href="https://github.com/wesm/pydata-book">Github Repo</a></li>
-<li><a href="https://amzn.to/2sJaol0">Feature Engineering</a> and <a href="https://github.com/divyasusarla/features">Github Repo</a></li>
-<li><a href="https://amzn.to/2SKUpyj">SQL Cookbook</a></li>
-<li><a href="https://amzn.to/2sK5Pa5">Machine Learning</a> and <a href="https://github.com/ageron/handson-ml">Github Repo</a></li>
-<li><a href="https://amzn.to/2LD3vsw">Python Data Science Handbook</a> and <a href="https://github.com/jakevdp/PythonDataScienceHandbook">Git Repo</a></li>
-<li><a href="https://amzn.to/2kYxIGZ">Introduction to ML/Deep Learning</a> and <a href="https://github.com/rasbt/python-machine-learning-book-2nd-edition">Github Repo</a></li>
-<li><a href="https://christophm.github.io/interpretable-ml-book/">Interpretable Machine Learning</a></li>
-<li><a href="https://amzn.to/2l3rd65">Deep Learning with Python</a> and <a href="https://github.com/fchollet/deep-learning-with-python-notebooks">Git Repo</a></li>
-<li><a href="https://amzn.to/2sKHRvf">Tensorflow Deep Learning Cookbook</a> and <a href="https://github.com/agulli/tensorflowCookbook">Git Repo</a></li>
-<li><a href="https://amzn.to/2xY516n">Image Processing - Python</a> and <a href="https://github.com/mbeyeler/opencv-machine-learning">Git Repo</a></li>
-<li><a href="https://amzn.to/2MRpU6D">Deep Learning - Goodfellow</a> and <a href="http://www.deeplearningbook.org/exercises.html">Resources</a></li>
 <li><a href="https://amzn.to/2x0XgZG">Tableau - Big Book of Dashboards</a></li>
 </ol>
+
+<br>
+<strong>Database Textbooks</strong>
+<ol>
+<li><a href="https://amzn.to/2SKUpyj">SQL Cookbook</a></li>
+<li><a href="https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/">Seven Databases in Seven Weeks</a></li>
+<li><a href="https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287/">High Performance MySQL</a></li>
+<li><a href="https://www.amazon.com/REST-APIs-Django-powerful-Python/dp/198302998X/">REST APIs with Django</a></li>
+<li><a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/">Design Data-Intensive Applications</a></li>
+<li><a href="https://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491972955">Advanced Analytics with Spark</a></li>
+</ol>
+
+##### :black_small_square: Data Science Textbooks
+<p> 
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2kXTyKT">Python for Data Analysis</a></strong> and <a href="https://github.com/wesm/pydata-book">Github</a> (Wes McKinney)<br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2sJaol0">Feature Engineering</a></strong> and <a href="https://github.com/divyasusarla/features">Github</a> (Sinan Ozdemir, Divya Susarla)<br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2sK5Pa5">Hands on Machine Learning</a></strong> and <a href="https://github.com/ageron/handson-ml">Github</a> (Aurélien Geron)<br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2LD3vsw">Python Data Science Handbook</a></strong> and <a href="https://github.com/jakevdp/PythonDataScienceHandbook">Github</a> (Jake VanderPlas)<br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C">Python Data Science Handbook</a></strong> and <a href="https://github.com/amueller/introduction_to_ml_with_python">Github</a> (Andreas C. Müller and Sarah Guido)<br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2kYxIGZ">Introduction to ML/Deep Learning</a></strong> and <a href="https://github.com/rasbt/python-machine-learning-book-2nd-edition">Github</a> (Sebastian Raschka, Vahid Mirjalili)<br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://christophm.github.io/interpretable-ml-book/">Interpretable Machine Learning</a></strong> (Christoph Molnar)<br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2l3rd65">Deep Learning with Python</a></strong> and <a href="https://github.com/fchollet/deep-learning-with-python-notebooks">Github</a> (Francois Chollet)<br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2sKHRvf">Tensorflow Deep Learning Cookbook</a></strong> and <a href="https://github.com/agulli/tensorflowCookbook">Github</a> (Antonio Gulli, Amita Kapoor)<br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2xY516n">Image Processing - Python</a></strong> and <a href="https://github.com/mbeyeler/opencv-machine-learning">Github</a> (Michael Beyeler)<br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2MRpU6D">Deep Learning</a></strong> and <a href="http://www.deeplearningbook.org/exercises.html">Code</a> (Ian Goodfellow)<br>
 
 <br>
 <strong>Statistics Resources :clipboard:</strong>
