@@ -21,16 +21,14 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.toptal.com/git/the-advanced-git-guide"><b>Toptal - Tips</b></a> - Advanced Topics<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.atlassian.com/git/tutorials/what-is-version-control"><b>Atlassian</b></a> - Version Control Topics<br>
 
-<br>
-<strong>Database Textbooks</strong>
-<ol>
-<li><a href="https://amzn.to/2SKUpyj">SQL Cookbook</a></li>
-<li><a href="https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/">Seven Databases in Seven Weeks</a></li>
-<li><a href="https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287/">High Performance MySQL</a></li>
-<li><a href="https://www.amazon.com/REST-APIs-Django-powerful-Python/dp/198302998X/">REST APIs with Django</a></li>
-<li><a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/">Design Data-Intensive Applications</a></li>
-<li><a href="https://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491972955">Advanced Analytics with Spark</a></li>
-</ol>
+##### :black_small_square: Data Engineering & Database Textbooks
+<p> 
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://amzn.to/2SKUpyj"><b>SQL Cookbook</b></a> - Learn Essentials of SQL Syntax<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/"><b>Seven Databases in Seven Week</b></a> - Databases for Big Data<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287/"><b>High Performance MySQL</b></a> - Executing Fast Queries<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/REST-APIs-Django-powerful-Python/dp/198302998X/"><b>REST APIs with Django</b></a> - Working with Applications<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/"><b>Design Data-Intensive Applications</b></a> - System Design for Data<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491972955"><b>Advanced Analytics with Spark</b></a> - Perform KPI Analysis<br>
 
 ##### :black_small_square: Data Science Textbooks
 <p> 
