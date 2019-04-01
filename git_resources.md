@@ -1,48 +1,134 @@
-<font size="4em"><strong>Resources:</strong></font>
+<font size="4em"><strong>Git Version Control</strong></font>
 
+#### Git is a universal version control system to provision, test, and deploy code. The following resources includes commands, aliases, and common responses to FAQs.
+
+
+##### FAQs:
 <ul>
-<li><a href="https://alanbarber.com/post/how-to-customize-the-git-for-windows-bash-shell-prompt/">Customize Git Bash for Windowss</a></li>
+<li><a href="https://alanbarber.com/post/how-to-customize-the-git-for-windows-bash-shell-prompt/">Customize Git Bash for Windows</a></li>
 <li><a href="http://kurtdowswell.com/software-development/git-bash-aliases/">Set Aliases Gitbash Windows</a></li>
 </li>
 <li><a href="https://jonsuh.com/blog/git-command-line-shortcuts/">Additional Aliases</a></li>
-<li><a href="https://stackoverflow.com/questions/2553786/how-do-i-alias-commands-in-git">Customize Alias in Mac</li>
+<li><a href="https://stackoverflow.com/questions/2553786/how-do-i-alias-commands-in-git">Customize Alias in Mac</a></li>
+<li><a href="https://help.github.com/en/articles/changing-a-remotes-url">Change SSH to HTTPS for Git</a></li>
+<li><a hrf="https://stackoverflow.com/questions/32268986/git-how-to-remove-proxy/32269086">Reset HTTPS Proxy</a></li>
 </ul>
 
-### Git is an effective technology for maintaining code with revisions across all operating systems and technology environments.  This resource serves to offer a high-level cheat sheet on frequent and effective use cases for the Git version control system.
+#### Git Commands
 
-git config --global user.name "David Yako"
+###### Configure preferred name and e-mail for Authorship 
+```bash
+git config --global user.name "David Yakobovitch"
 git config --global user.email "david@gmail.com"
+```
 
-git config --global core.autocrlf input #mac
-git config --global core.autocrlf false #removes lr wanring for the PC 
+###### Configure CR LF message display  
+```bash
+git config --global core.autocrlf input
+git config --global core.autocrlf false 
+```
 
-git config --list #view your settings 
+###### Set your preferred text editor
+```bash
+git config --global core.editor "emacs"
+```
+
+###### View configuration settings
+```bash
+git config --list
+```
+
+###### View help settings
+```bash
 git config --help
+```
 
-q! # exit without saving 
-wq # exit and save 
-:wq #exit and save as well 
+###### Clone a repository from Github
+```bash
+git clone [_url_here] [directory_name_here] [local_file_path_here]
+```
 
-ctrl + x, Y, enter #saving in nano 
-ls -A #Shows hidden files and folders 
+###### View the repository connected to from the remote
+```bash
+git remote -v
+```
 
-git clone [url here] ~/Desktop #from the remote web, auto initializes git
-git init  #Only do on local host computer :8888
+###### Initalize a local git on host machine
+```bash
+git init
+```
 
-mkdir directory_name #Creates directory
-touch file_name.txt #Creates file
-nano .gitignore #sees code to ignore files 
+###### Create a new directory or file
+```bash
+mkdir [directory_name]
+touch [file_name.extension]
+```
 
-git config --global core.autocrlf false #For PC to disable LF warning 
+###### Stage changes to the active directory
+```bash
+git add . # all changes
+git add [file.txt] # a file change
+git add [file-1.text] [file-2.txt]
+```
 
-Git log #View commits
-git commit --author="Vlad Dracula <vlad@tran.sylvan.ia>"
-1. Create folder, file, or make an edit change
-git diff #--color-words #see changes before staging
-2. git add filename or git add . #staging prep for one or all file/folder changes 
-git diff --staged
+###### Show changes status in the active directory
+```bash
 git status
-3. git commit -m "comment goes here" #commits the track change to log
+```
+
+###### Show changes before and after staging as colored-words
+```bash
+git diff # before git add 
+git diff --staged # after git add
+```
+
+###### Commit changes to the git log
+```bash
+git commit -m "message goes here"
+git commit --author="Vlad Dracula <vlad@tran.sylvan.ia>" # chan
+```
+
+###### Change author for a specific commit when pair coding
+```bash
+git commit --author="David Yakobovitch <david@gmail.com>"
+```
+
+###### View completed commits
+```bash
+git log
+```
+
+###### View files excluded by .gitignore
+```bash
+[text_editor_name] .gitignore
+nano .gitgnore
+```
+
+###### Exit Nano or Vi or Vim without saving changes
+```bash
+q!
+Shift :q
+```
+
+###### Exit & Save Nano or Vi
+```bash
+wq
+```
+
+###### Keystrokes to Exit & Save in Nano or Vi
+```bash
+Ctrl + X
+Y
+Enter
+```
+
+#### Unix Commands
+
+###### Show all hidden files and folders in active directory
+```bash
+ls -A
+```
+
 ### Edit the Commit Message
 git commit --amend                  # start $EDITOR to edit the message
 git commit --amend -m "New message" # set the new message directly
@@ -52,17 +138,12 @@ git log --patch cats.txt #Shows log and diff together
 4. git push origin master
 git remote add origin url #becomes master 
 
-git remote -v #fetches from remote to local 
 git push -u origin master #Sends to web 
 
 git log --patch filename.txt
 git log -1
 git log --oneline #shows as one line per commit 
 git log --format=full
-shift :q #exit vim
-
-Try git commit #without message
-git add . #show for all 
 
 # Revision changes 
 1. git diff HEAD or 8a61d07 mars.txt #show the most recent change(s)
@@ -80,7 +161,6 @@ git config --global http.proxy http://user:password@proxy.url
 git config --global https.proxy http://user:password@proxy.url
 
 # Merge conflicts between branches
-
 git checkout feature 
 git rebase -i master
 
@@ -155,8 +235,8 @@ git commit --amend
 
 ### Reverting Pushed Commits
 git revert c761f5c              # reverts the commit with the specified id
- git revert HEAD^                # reverts the second to last commit
- git revert develop~4..develop~2 # reverts a whole range of commits
+git revert HEAD^                # reverts the second to last commit
+git revert develop~4..develop~2 # reverts a whole range of commits
  
 ### undo the last commit, but don't create a revert commit 
 git revert -n HEAD
@@ -191,6 +271,49 @@ git config --global rerere.enabled true
 <li>!$		Last argument of last command</li>
 <li>!^		First argument of last command</li>
 <li>^abc^xyz	Replace first occurance of abc with xyz in last command and execute it</li>
+
+### Aliases:
+
+The following aliases could be set in your .bash_aliases file to save keystrokes when processing git commands.
+
+# ----------------------
+# Git Aliases
+# ----------------------
+```
+alias gaa='git add .'
+alias gc='git commit'
+alias ga='git add'
+alias gaaa='git add --all'
+alias gau='git add --update'
+alias gb='git branch'
+alias gbd='git branch --delete '
+alias gcm='git commit --message'
+alias gcf='git commit --fixup'
+alias gco='git checkout'
+alias gcob='git checkout -b'
+alias gcom='git checkout master'
+alias gcos='git checkout staging'
+alias gcod='git checkout develop'
+alias gd='git diff'
+alias gda='git diff HEAD'
+alias gi='git init'
+alias glg='git log --graph --oneline --decorate --all'
+alias gld='git log --pretty=format:"%h %ad %s" --date=short --all'
+alias gm='git merge --no-ff'
+alias gma='git merge --abort'
+alias gmc='git merge --continue'
+alias gp='git pull'
+alias gpr='git pull --rebase'
+alias gr='git rebase'
+alias gs='git status'
+alias gss='git status --short'
+alias gst='git stash'
+alias gsta='git stash apply'
+alias gstd='git stash drop'
+alias gstl='git stash list'
+alias gstp='git stash pop'
+alias gsts='git stash save'
+```
 
 ### References:
 - https://www.toptal.com/git/tips-and-practices
