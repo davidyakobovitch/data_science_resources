@@ -40,6 +40,7 @@ Open data resources for Capstone Projects and your Data Science Journey.
 34. [Public Data](http://kevinchai.net/dataset)
 35. [Open Source Sports](http://www.opensourcesports.com/)
 36. [Machine Learning Datasets](https://www.datasetlist.com/)
+37. [CERN Open Data Portal](http://opendata.cern.ch/)
   
 <strong>APIs</strong>:
 <ol>
