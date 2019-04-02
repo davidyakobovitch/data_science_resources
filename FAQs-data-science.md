@@ -88,3 +88,9 @@ Where is Jupyter Servers/Kernels stored in case I need to clear for Jupyter memo
 
 What is the difference between Docker and Virtual Machines?
 https://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-virtual-machine
+
+What are common licensing for software?
+https://en.wikipedia.org/wiki/MIT_License
+https://en.wikipedia.org/wiki/Creative_Commons_license
+https://en.wikipedia.org/wiki/BSD_licenses
+https://en.wikipedia.org/wiki/GNU_General_Public_License
