@@ -82,7 +82,7 @@ The following are python, statistics, and machine learning recommended resources
 
 <br>
 
-<strong>More Resources/Demos :thought_balloon:</strong>
+<strong>Demos </strong>
 <ul>
 <li><a href="https://paperswithcode.com/sota">State of the Art ML Papers</a></li>
   <li><a href="http://arxiv-sanity.com/top">Top papers on ArXiv</a></li>
@@ -100,6 +100,7 @@ The following are python, statistics, and machine learning recommended resources
 <li><a href="https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/">Dbscan</a> and <a href="https://www.naftaliharris.com/blog/visualizing-k-means-clustering/">KMeans </a> demos</li>
 <li><a href="https://humanebydesign.com/"> Humane by Design Principles</a></li>
 <li><a href="https://www.wired.com/story/facebook-oculus-codec-avatars-vr/">Facebook AI Demos</a></li>
+ <li><a href="https://pair-code.github.io/what-if-tool/">Google What If Tool</a></li>
 </ul>
 <br>
 
