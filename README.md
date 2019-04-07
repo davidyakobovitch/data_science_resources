@@ -5,6 +5,7 @@ The following are python, statistics, and machine learning recommended resources
 ##### :black_small_square: Essential Links
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/data_science_standards"><b>Data Science Standards</b></a> - How to Operationalize Machine Learning Pipelines<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.humainpodcast.com"><b>HumAIn Podcast</b></a> - Human Centered Thought Leadership Podcast<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/open_data_sets.md"><b>Open Source Data Sets</b></a> - Data Lakes, APIs & Sets for Machine Learning<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/markdown_reference.md"><b>Markdown</b></a> -  Framework for Formatting Text<br>  
  
@@ -29,6 +30,14 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/REST-APIs-Django-powerful-Python/dp/198302998X/"><b>REST APIs with Django</b></a> - Working with Applications<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/"><b>Design Data-Intensive Applications</b></a> - System Design for Data<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491972955"><b>Advanced Analytics with Spark</b></a> - Perform KPI Analysis<br>
+ 
+##### :black_small_square: Statistics Textbooks
+<p> 
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="http://www-bcf.usc.edu/~gareth/ISL/">Intro to Stats Learning</a></strong> (Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani) <br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://sites.google.com/site/fundamentalstatistics/">Fundamental Statistics</a></strong> (Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani) <br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="http://onlinestatbook.com/2/">Online Stats</a></strong> (Rice University, University of Houston, Tufts University) <br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/">Practical Statistics</a></strong> (Peter Bruce, Andrew Bruce) <br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://www.amazon.com/Statistics-Nutshell-Desktop-Quick-Reference/dp/1449316824/">Statistics in a Nutshell</a></strong> (Sarah Boslaugh) <br>
 
 ##### :black_small_square: Data Science Textbooks
 <p> 
@@ -44,16 +53,6 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2xY516n">Image Processing - Python</a></strong> and <a href="https://github.com/mbeyeler/opencv-machine-learning">Github</a> (Michael Beyeler)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2MRpU6D">Deep Learning</a></strong> and <a href="http://www.deeplearningbook.org/exercises.html">Code</a> (Ian Goodfellow)<br>
 
-<br>
-<strong>Statistics Resources :clipboard:</strong>
-<ol>
-<li><a href="http://www-bcf.usc.edu/~gareth/ISL/">Intro to Stats Learning</a></li>
-<li><a href="https://sites.google.com/site/fundamentalstatistics/chapter1">Fundamental Statistics</a></li>
-<li><a href="http://onlinestatbook.com/2/">Online Stats</a></li>
-<li><a href="https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/ref=sr_1_4?ie=UTF8&qid=1521666554&sr=8-4&keywords=statistics">Practical Statistics</a></li>
-<li><a href="https://www.amazon.com/Statistics-Nutshell-Desktop-Quick-Reference/dp/1449316824/ref=sr_1_2?ie=UTF8&qid=1521666535&sr=8-2&keywords=stats+nutshell">Stats in Nutshell</a></li>
-</ol>
-
 ##### :black_small_square: Code Challenges
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.codewars.com/"><b>Code Wars</b></a> - Programming challenges that are progressively harder.<br>
@@ -63,52 +62,40 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.kaggle.com/"><b>Kaggle</b></a> - Data Science competitions<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.coderbyte.com/"><b>CoderByte</b></a> - Code challenges from FAANG companies<br>
 
-<br>
-<strong>Interview Resources :notebook:</strong>
-<ul>
-<li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
-<li><a href="https://github.com/hopelessoptimism/cracking-the-data-science-interview">Cracking DS Interview</a></li>
-<li><a href="https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850">Cracking Coding Interviews</a></li>
-<li><a href="https://www.springboard.com/blog/data-science-interviews-lessons/">Springboard</a></li>
-<li><a href="http://www.acheronanalytics.com/acheron-blog/how-to-prepare-for-a-data-science-interview">DS Preparation</a></li>
-<li><a href="https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184">100 DS Questions</a></li>
-<li><a href="https://github.com/rougier/numpy-100">100 Numpy Exercises</a></li>
-<li><a href="https://www.machinelearningplus.com/python/101-numpy-exercises-python/">101 More Numpy Exercises</a></li>
-<li><a href="https://www.dezyre.com/article/data-analyst-interview-questions-to-prepare-for-in-2018/324">100 Data Analyst Questions</a></li>
-<li><a href="https://github.com/Avik-Jain/100-Days-Of-ML-Code">100 Days of ML</a></li>
-<li><a href="https://www.interviewcake.com/">Interview Cake</a></li>
-<li><a href="https://github.com/ajcr/100-pandas-puzzles">100 Pandas Puzzles</a></li>
-</ul>
+##### :black_small_square: Interview Practice
+<p> 
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/yangshun/tech-interview-handbook"><b>Tech Interview Handbook</b></a> - Best Practices for technical interviews<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hopelessoptimism/cracking-the-data-science-interview"><b>Cracking the Data Science Interview</b></a> - Recommendations for interviews<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850"><b>Cracking the Code Interview</b></a> - Frequent Code Interview Questions<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.springboard.com/blog/data-science-interviews-lessons/"><b>Springboard</b></a> - Data Science Interview Lessons<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.acheronanalytics.com/acheron-blog/how-to-prepare-for-a-data-science-interview"><b>How to</b></a> - Prepare for Interviews<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184"><b>Top 100</b></a> - DS Practice Questions<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rougier/numpy-100"><b>Numpy Q&A Part I</b></a> and <a href="https://www.machinelearningplus.com/python/101-numpy-exercises-python/"><b>Numpy Q&A Part II</b></a> <br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ajcr/100-pandas-puzzles"><b>Pandas Q&A</b></a><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Avik-Jain/100-Days-Of-ML-Code"><b>ML Code</b></a> 100 Days of Practice<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.dezyre.com/article/data-analyst-interview-questions-to-prepare-for-in-2018/324"><b>Data Analyst</b></a> 100 Questions<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.interviewcake.com/"><b>Interview Cake</b></a> FAANG Practice Questions<br>
 
-<br>
+##### :black_small_square: Product Research
+<p> 
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://paperswithcode.com/sota"><b>State of the Art</b></a> - ML Papers w/ Code<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://playground.tensorflow.org"><b>TensorFlow Playground</b></a> - Neural Networks Demo<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://poloclub.github.io/ganlab/"><b>GANs</b></a> - Demo<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://pair-code.github.io/what-if-tool/"><b>What if Tool</b></a> - Google-backe research<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://selfdrivingcars.mit.edu/deeptraffic/"><b>Self-Driving</b></a> - MIT Demo<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/"><b>DBScan Demo</b></a> and <a href="https://www.naftaliharris.com/blog/visualizing-k-means-clustering/"><b>KMeans Demo</b></a><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/josephmisiti/awesome-machine-learning"><b>ML Resources</b></a> - For all Programming Languages<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://arxiv-sanity.com/top"><b>Top Papers</b></a> - ArxiV Curator Across Domains<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://mybinder.org/"><b>Binder</b></a> and <a href="https://gist.github.com/"><b>Gist</b></a> - Sharing Code Resources<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://arxiv-sanity.com/top"><b>Top Papers</b></a> - ArxiV Curator Across Domains<br> 
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/daviddao/awful-ai"><b>Awful AI</b></a> - Ethically Questionable Use Cases<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://humanebydesign.com/"><b>Humane Principles</b></a> - Design Elements for Applications<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rushter/data-science-blogs"><b>DS Blogs</b></a> - Curated Top Blogs on Data Science<br>
 
-<strong>Demos </strong>
-<ul>
-<li><a href="https://paperswithcode.com/sota">State of the Art ML Papers</a></li>
-  <li><a href="http://arxiv-sanity.com/top">Top papers on ArXiv</a></li>
-<li><a href="https://github.com/daviddao/awful-ai">Awful AI</a></li>
-<li><a href="https://github.com/rushter/data-science-blogs">Curated Data Science Blogs</a></li>
-<li><a href="https://github.com/josephmisiti/awesome-machine-learning">Awesome ML Resources</a></li>
-<li><a href="https://mybinder.org/">Share Code - Binder</a></li>
-<li><a href="https://gist.github.com/">Share Code - Gist</a></li>
-<li><a href="https://code.visualstudio.com/">Visual Studio Code Editor</a></li>
-<li><a href="http://www.scipy-lectures.org/">Scipy Lectures</a></li>
-<li><a href="http://physics.bu.edu/~pankajm/MLnotebooks.html">Python for Physics</a></li>
-<li><a href="https://playground.tensorflow.org">AI Demo 1: TensorFlow Playground</a></li>
-<li><a href="https://poloclub.github.io/ganlab/">AI Demo 2: GAN Lab</a></li>
-<li><a href="https://selfdrivingcars.mit.edu/deeptraffic/">AI Demo 3: Self-driving</a></li>
-<li><a href="https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/">Dbscan</a> and <a href="https://www.naftaliharris.com/blog/visualizing-k-means-clustering/">KMeans </a> demos</li>
-<li><a href="https://humanebydesign.com/"> Humane by Design Principles</a></li>
-<li><a href="https://www.wired.com/story/facebook-oculus-codec-avatars-vr/">Facebook AI Demos</a></li>
- <li><a href="https://pair-code.github.io/what-if-tool/">Google What If Tool</a></li>
-</ul>
-<br>
-
-<strong>Physical Workspace Tech Items</strong>
-<ul>
-<li><a href="https://amzn.to/2O7AWom">Dual Arm Monitor</a></li>
-<li><a href="https://amzn.to/2LNN0ym">LED Mountable Monitor</a></li>
-</ul>
+##### :black_small_square: Workspace 
+<p> 
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://amzn.to/2O7AWom"><b>Dual Arm Monitor</b></a><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://amzn.to/2LNN0ym"><b>LED Mountable Monitor</b></a><br>
 
 ## Licenses
 License
