@@ -1,6 +1,11 @@
 # Data Science Resources & Data Science Standards
+
+<a href="https://github.com/davidyakobovitch/data_science_resources/pulls"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a> <a href="https://github.com/ellerbrock/open-source-badge/"><img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103"></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"></a> <a href="https://github.com/davidyakobovitch/data_science_resources/graphs/contributors"><img src="https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg"></a> <a href="https://twitter.com/davidyako"><img src="https://img.shields.io/twitter/follow/amirsinatorfi.svg?label=Follow&style=social"></a>
+
 The following are python, statistics, and machine learning recommended resources, to assist you during your data science and machine learnings studies.
 <br />
+
+
 
 ##### :black_small_square: Essential Links
 <p> 
