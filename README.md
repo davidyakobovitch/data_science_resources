@@ -70,6 +70,7 @@ The following are python, statistics, and machine learning recommended resources
 ##### :black_small_square: Interview Practice
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/yangshun/tech-interview-handbook"><b>Tech Interview Handbook</b></a> - Best Practices for technical interviews<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://bigocheatsheet.com/"><b>Big O Notation</b></a><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hopelessoptimism/cracking-the-data-science-interview"><b>Cracking the Data Science Interview</b></a> - Recommendations for interviews<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850"><b>Cracking the Code Interview</b></a> - Frequent Code Interview Questions<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.springboard.com/blog/data-science-interviews-lessons/"><b>Springboard</b></a> - Data Science Interview Lessons<br>
