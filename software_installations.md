@@ -23,3 +23,6 @@
 
 #### How to Customize Terminals
 > https://terminalsare.sexy/
+
+#### Set Conda as path Variable on Windows
+> https://www.quora.com/How-can-I-add-conda-command-into-the-PATH-environment-variable-so-that-it-recognizes-the-instruction-given-that-the-executable-program-is-already-installed
