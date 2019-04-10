@@ -39,7 +39,7 @@ The following are python, statistics, and machine learning recommended resources
 ##### :black_small_square: Statistics Textbooks
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="http://www-bcf.usc.edu/~gareth/ISL/">Intro to Stats Learning</a></strong> (Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani) <br>
-&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://sites.google.com/site/fundamentalstatistics/">Fundamental Statistics</a></strong> (Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani) <br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://sites.google.com/site/fundamentalstatistics/">Fundamental Statistics</a></strong> (Bryan R. Burnham) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="http://onlinestatbook.com/2/">Online Stats</a></strong> (Rice University, University of Houston, Tufts University) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/">Practical Statistics</a></strong> (Peter Bruce, Andrew Bruce) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://www.amazon.com/Statistics-Nutshell-Desktop-Quick-Reference/dp/1449316824/">Statistics in a Nutshell</a></strong> (Sarah Boslaugh) <br>
