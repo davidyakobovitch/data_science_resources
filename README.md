@@ -12,7 +12,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/data_science_standards"><b>Data Science Standards</b></a> - How to Operationalize Machine Learning Pipelines<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.humainpodcast.com"><b>HumAIn Podcast</b></a> - Human Centered Thought Leadership Podcast<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/open_data_sets.md"><b>Open Source Data Sets</b></a> - Data Lakes, APIs & Sets for Machine Learning<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/markdown_reference.md"><b>Markdown</b></a> -  Framework for Formatting Text<br>  
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kamranahmedse/developer-roadmap"><b>Developer Roadmap</b></a> -  Tools to Excel in Tech<br>  
  
 ##### :black_small_square: Pre-Data Science Texts
 <p> 
@@ -81,6 +81,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Avik-Jain/100-Days-Of-ML-Code"><b>ML Code</b></a> 100 Days of Practice<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.dezyre.com/article/data-analyst-interview-questions-to-prepare-for-in-2018/324"><b>Data Analyst</b></a> 100 Questions<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.interviewcake.com/"><b>Interview Cake</b></a> FAANG Practice Questions<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/markdown_reference.md"><b>Markdown</b></a> -  Framework for Formatting Text<br>
 
 ##### :black_small_square: Product Research
 <p> 
