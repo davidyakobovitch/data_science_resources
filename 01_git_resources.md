@@ -55,20 +55,21 @@ git remote -v
 
 ###### Initalize a local git on host machine
 ```bash
-git init
+git init [directory_name]
+git init # inside the directory
 ```
 
 ###### Create a new directory or file
 ```bash
-mkdir [directory_name]
-touch [file_name.extension]
+mkdir [directory_name] #create directories
+touch [file_name.extension] #create empty files
 ```
 
 ###### Stage changes to the active directory
 ```bash
-git add . # all changes
-git add [file.txt] # a file change
-git add [file-1.text] [file-2.txt]
+git add . # all changes to be logged
+git add [file.txt] # logs a file change
+git add [file-1.text] [file-2.txt] # logs file changes for specific files
 ```
 
 ###### Show changes status in the active directory
@@ -112,7 +113,10 @@ Shift :q
 
 ###### Exit & Save Nano or Vi
 ```bash
+Escape
+Shift + :
 wq
+Enter
 ```
 
 ###### Keystrokes to Exit & Save in Nano or Vi
@@ -127,6 +131,7 @@ Enter
 ###### Show all hidden files and folders in active directory
 ```bash
 ls -A
+ls -lha # Human readable format
 ```
 
 ### Edit the Commit Message
