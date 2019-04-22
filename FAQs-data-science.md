@@ -89,6 +89,9 @@ Where is Jupyter Servers/Kernels stored in case I need to clear for Jupyter memo
 What is the difference between Docker and Virtual Machines?
 https://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-virtual-machine
 
+How do I change Python Environmental Variables on Mac?
+https://stackoverflow.com/questions/18425379/how-to-set-pythons-default-version-to-3-x-on-os-x
+
 What are common licensing for software?
 https://en.wikipedia.org/wiki/MIT_License
 
