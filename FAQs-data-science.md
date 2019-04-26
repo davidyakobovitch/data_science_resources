@@ -100,3 +100,6 @@ https://en.wikipedia.org/wiki/Creative_Commons_license
 https://en.wikipedia.org/wiki/BSD_licenses
 
 https://en.wikipedia.org/wiki/GNU_General_Public_License
+
+What are Python Error Types?
+https://www.tutorialsteacher.com/python/error-types-in-python
