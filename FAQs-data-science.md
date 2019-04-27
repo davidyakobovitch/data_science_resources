@@ -103,3 +103,7 @@ https://en.wikipedia.org/wiki/GNU_General_Public_License
 
 What are Python Error Types?
 https://www.tutorialsteacher.com/python/error-types-in-python
+
+What are some customizations for Jupyter?
+https://nbviewer.jupyter.org/github/fperez/nb-slideshow-template/blob/master/install-support.ipynb
+https://forums.fast.ai/t/jupyter-notebook-enhancements-tips-and-tricks/17064/27
