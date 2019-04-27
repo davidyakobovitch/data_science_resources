@@ -107,3 +107,8 @@ https://www.tutorialsteacher.com/python/error-types-in-python
 What are some customizations for Jupyter?
 https://nbviewer.jupyter.org/github/fperez/nb-slideshow-template/blob/master/install-support.ipynb
 https://forums.fast.ai/t/jupyter-notebook-enhancements-tips-and-tricks/17064/27
+
+Where is Python installed on Windows and how to set up with Git Bash?
+https://projects.raspberrypi.org/en/projects/using-pip-on-windows/5
+https://stackoverflow.com/questions/32597209/python-not-working-in-the-command-line-of-git-bash/39778745
+https://stackoverflow.com/questions/22869192/git-bash-wont-run-my-python-files
