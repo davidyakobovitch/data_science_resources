@@ -112,3 +112,6 @@ Where is Python installed on Windows and how to set up with Git Bash?
 https://projects.raspberrypi.org/en/projects/using-pip-on-windows/5
 https://stackoverflow.com/questions/32597209/python-not-working-in-the-command-line-of-git-bash/39778745
 https://stackoverflow.com/questions/22869192/git-bash-wont-run-my-python-files
+
+How do I adjust my toggling in terminal editor?
+https://stackoverflow.com/questions/81272/is-there-any-way-in-the-os-x-terminal-to-move-the-cursor-word-by-word
