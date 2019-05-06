@@ -9,7 +9,7 @@ Open data resources for Capstone Projects and your Data Science Journey.
 3. [Canada Open Data Gov](http://open.canada.ca/en)
 4. [US Open Data Gov](https://www.data.gov/)
 5. [Quandl Financial Data](https://www.quandl.com/search?query=)
-6. [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.html)
+6. [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.php)
 7. [Gapminder](https://www.gapminder.org/data/)
 8. [FiveThirtyEight](https://github.com/fivethirtyeight/data)
 9. [DataPortals](http://dataportals.org/)
