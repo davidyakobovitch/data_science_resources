@@ -90,6 +90,8 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://poloclub.github.io/ganlab/"><b>GANs</b></a> - Demo<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pair-code.github.io/what-if-tool/"><b>What if Tool</b></a> - Google-backe research<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://selfdrivingcars.mit.edu/deeptraffic/"><b>Self-Driving</b></a> - MIT Demo<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://talktotransformer.com/"><b>NLP Text Transformer</b></a> - OpenAI<br>  
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://gltr.io/dist/index.html"><b>Auto Text Detect</b></a> - MIT/IBM/Harvard<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/"><b>DBScan Demo</b></a> and <a href="https://www.naftaliharris.com/blog/visualizing-k-means-clustering/"><b>KMeans Demo</b></a><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/josephmisiti/awesome-machine-learning"><b>ML Resources</b></a> - For all Programming Languages<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://arxiv-sanity.com/top"><b>Top Papers</b></a> - ArxiV Curator Across Domains<br>
