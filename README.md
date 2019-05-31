@@ -36,13 +36,16 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/"><b>Design Data-Intensive Applications</b></a> - System Design for Data<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491972955"><b>Advanced Analytics with Spark</b></a> - Perform KPI Analysis<br>
  
-##### :black_small_square: Statistics Textbooks
+##### :black_small_square: Stats & Math Textbooks
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="http://www-bcf.usc.edu/~gareth/ISL/">Intro to Stats Learning</a></strong> (Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://sites.google.com/site/fundamentalstatistics/">Fundamental Statistics</a></strong> (Bryan R. Burnham) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="http://onlinestatbook.com/2/">Online Stats</a></strong> (Rice University, University of Houston, Tufts University) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/">Practical Statistics</a></strong> (Peter Bruce, Andrew Bruce) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://www.amazon.com/Statistics-Nutshell-Desktop-Quick-Reference/dp/1449316824/">Statistics in a Nutshell</a></strong> (Sarah Boslaugh) <br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://ourway.keybase.pub/mathematics_cheat_sheet.pdf">All in One Math Cheat Sheet</a></strong> (Alex Spartalas) <br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="http://opendatastructures.org/mcs.pdf">Math for Computer Science</a></strong> (Eric Lehman, F Thomson Leighton, Albert R Meyer) <br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://mml-book.github.io/book/mml-book.pdf">Math for Machine Learning</a></strong> (Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong) <br>
 
 ##### :black_small_square: Data Science Textbooks
 <p> 
@@ -100,6 +103,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/daviddao/awful-ai"><b>Awful AI</b></a> - Ethically Questionable Use Cases<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://humanebydesign.com/"><b>Humane Principles</b></a> - Design Elements for Applications<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rushter/data-science-blogs"><b>DS Blogs</b></a> - Curated Top Blogs on Data Science<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g/videos"><b>Ctrl Shift Face</b></a> - Deep Fake Videos<br> 
 
 ##### :black_small_square: Workspace 
 <p> 
