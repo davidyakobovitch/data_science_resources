@@ -109,6 +109,8 @@ The following are python, statistics, and machine learning recommended resources
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://amzn.to/2O7AWom"><b>Dual Arm Monitor</b></a><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://amzn.to/2LNN0ym"><b>LED Mountable Monitor</b></a><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wayfair.com/furniture/pdp/comm-office-belda-standing-desk-w001708621.html?piid=1962783974"><b>Standing Desk</b></a><br>
+ 
 
 ## Licenses
 License
