@@ -63,6 +63,7 @@ git init # inside the directory
 ```bash
 mkdir [directory_name] #create directories
 touch [file_name.extension] #create empty files
+echo "text goes here" > file.txt #creates new file with text values
 ```
 
 ###### Stage changes to the active directory
@@ -86,6 +87,7 @@ git diff --staged # after git add
 ###### Commit changes to the git log
 ```bash
 git commit -m "message goes here"
+git commit --message "message goes here"
 git commit --author="Vlad Dracula <vlad@tran.sylvan.ia>" # chan
 ```
 
@@ -137,6 +139,39 @@ ls -lha # Human readable format
 ### Edit the Commit Message
 git commit --amend                  # start $EDITOR to edit the message
 git commit --amend -m "New message" # set the new message directly
+
+
+###### Display the most recent commit
+```bash
+git show #displays the most recent commit on the HEAD
+```
+
+###### Display the most recent commit
+```bash
+git show #displays the most recent commit on the HEAD
+```
+
+###### Display the commit in a pretty-print format
+```bash
+git cat-file -p <commit-ID> #can be run on the tree (points to blobs), blob (sub-directory of files) or commit (points to tree) 
+```
+
+###### Re-load shell
+```bash
+source ~./profile
+```
+
+###### Display wordcount of an object (requires ruby installation)
+```bash
+cat .git/objects/ce/<commit> | inflate | wc -c
+```
+
+
+###### Explore Hex characters
+```bash
+cat .git/objects/ce/<commit> | inflate | hexdump -C
+```
+
 
 git status
 git log --patch cats.txt #Shows log and diff together
@@ -324,3 +359,6 @@ alias gsts='git stash save'
 - https://www.toptal.com/git/tips-and-practices
 - https://www.atlassian.com/git/tutorials/what-is-version-control
 - https://gist.github.com/citizen428/16fb925fcca59ddfb652c7cb22809018
+
+How do I set up tree on windows?
+https://superuser.com/questions/531592/how-do-i-add-the-tree-command-to-git-bash-on-windows
