@@ -368,3 +368,6 @@ https://kb.iu.edu/d/ajnx
 
 How do I customize Git bash display for Windows?
 https://alanbarber.com/post/how-to-customize-the-git-for-windows-bash-shell-prompt/
+
+How do I change default Git location launch for Jupyter and Git bash on Windows?
+http://practicalseries.com/1002-vcs/03-03-install.html
