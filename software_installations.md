@@ -26,3 +26,7 @@
 
 #### Set Conda as path Variable on Windows
 > https://www.quora.com/How-can-I-add-conda-command-into-the-PATH-environment-variable-so-that-it-recognizes-the-instruction-given-that-the-executable-program-is-already-installed
+
+#### Where can I view Conda Documentation?
+> https://docs.conda.io/projects/conda/en/latest/index.html
+
