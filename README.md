@@ -103,7 +103,9 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/daviddao/awful-ai"><b>Awful AI</b></a> - Ethically Questionable Use Cases<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://humanebydesign.com/"><b>Humane Principles</b></a> - Design Elements for Applications<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rushter/data-science-blogs"><b>DS Blogs</b></a> - Curated Top Blogs on Data Science<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g/videos"><b>Ctrl Shift Face</b></a> - Deep Fake Videos<br> 
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g/videos"><b>Ctrl Shift Face</b></a> - Deep Fake Videos<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://grover.allenai.org/"><b>Grover</b></a> - Neural Fake News Detector<br>
+
 
 ##### :black_small_square: Workspace 
 <p> 
