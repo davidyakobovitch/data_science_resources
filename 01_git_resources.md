@@ -365,3 +365,6 @@ https://superuser.com/questions/531592/how-do-i-add-the-tree-command-to-git-bash
 
 How do I rename my Windows computer for Gitbash?
 https://kb.iu.edu/d/ajnx
+
+How do I customize Git bash display for Windows?
+https://alanbarber.com/post/how-to-customize-the-git-for-windows-bash-shell-prompt/
