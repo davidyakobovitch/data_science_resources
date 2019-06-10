@@ -39,3 +39,6 @@ Alt + 1
 <ul>
 <li><a href="http://man.he.net/">Manual Documents </a></li>
 </ul>
+
+How do I save my Terminal output to a history log file?
+https://unix.stackexchange.com/questions/200637/save-all-the-terminal-output-to-a-file/200642
