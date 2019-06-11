@@ -89,6 +89,7 @@ The following are python, statistics, and machine learning recommended resources
 ##### :black_small_square: Product Research
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://paperswithcode.com/sota"><b>State of the Art</b></a> - ML Papers w/ Code<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.arxiv-sanity.com/"><b>Arxiv Reports</b></a> ArXiv Sanity<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://playground.tensorflow.org"><b>TensorFlow Playground</b></a> - Neural Networks Demo<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://poloclub.github.io/ganlab/"><b>GANs</b></a> - Demo<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pair-code.github.io/what-if-tool/"><b>What if Tool</b></a> - Google-backe research<br>
