@@ -42,3 +42,9 @@ Alt + 1
 
 How do I save my Terminal output to a history log file?
 https://unix.stackexchange.com/questions/200637/save-all-the-terminal-output-to-a-file/200642
+
+Ubuntu Installation Support with Diskpart:
+https://davidzych.com/install-windows-10-from-a-usb-flash-drive/
+https://superuser.com/questions/775017/is-it-possible-to-create-bootable-linux-on-usb-drive-using-windows-command-line
+https://neosmart.net/wiki/diskpart/
+https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation
