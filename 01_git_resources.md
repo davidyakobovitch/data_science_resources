@@ -371,3 +371,6 @@ https://alanbarber.com/post/how-to-customize-the-git-for-windows-bash-shell-prom
 
 How do I change default Git location launch for Jupyter and Git bash on Windows?
 http://practicalseries.com/1002-vcs/03-03-install.html
+
+How to set Conda commands to run from git bash on Windows 10?
+https://stackoverflow.com/questions/44597662/conda-command-is-not-recognized-on-windows-10?rq=1
