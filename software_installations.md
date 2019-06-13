@@ -33,3 +33,6 @@
 #### How can I change Recycle bin settings on Windows?
 > https://www.howtogeek.com/110599/how-to-get-a-fully-functional-recycle-bin-in-the-taskbar-on-windows-8/
 > https://www.computerhope.com/issues/ch001276.htm
+
+#### What is the best software to update Drivers for Windows?
+> driver reviewer or driver booster or driverPack
