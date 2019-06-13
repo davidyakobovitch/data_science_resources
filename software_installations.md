@@ -30,3 +30,6 @@
 #### Where can I view Conda Documentation?
 > https://docs.conda.io/projects/conda/en/latest/index.html
 
+#### How can I change Recycle bin settings on Windows?
+> https://www.howtogeek.com/110599/how-to-get-a-fully-functional-recycle-bin-in-the-taskbar-on-windows-8/
+> https://www.computerhope.com/issues/ch001276.htm
