@@ -60,6 +60,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2sKHRvf">Tensorflow Deep Learning Cookbook</a></strong> and <a href="https://github.com/agulli/tensorflowCookbook">Github</a> (Antonio Gulli, Amita Kapoor)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2xY516n">Image Processing - Python</a></strong> and <a href="https://github.com/mbeyeler/opencv-machine-learning">Github</a> (Michael Beyeler)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2MRpU6D">Deep Learning</a></strong> and <a href="http://www.deeplearningbook.org/exercises.html">Code</a> (Ian Goodfellow)<br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf">Data Science Yearning - Draft</a></strong> (Andrew Ng)<br>
 
 ##### :black_small_square: Code Challenges
 <p> 
@@ -90,6 +91,7 @@ The following are python, statistics, and machine learning recommended resources
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://paperswithcode.com/sota"><b>State of the Art</b></a> - ML Papers w/ Code<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.arxiv-sanity.com/"><b>Arxiv Reports</b></a> ArXiv Sanity<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://s2-sanity.apps.allenai.org/cold-start"><b>Arxiv Adaptive Learning</b></a> ArXiv Sanity<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://playground.tensorflow.org"><b>TensorFlow Playground</b></a> - Neural Networks Demo<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://poloclub.github.io/ganlab/"><b>GANs</b></a> - Demo<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pair-code.github.io/what-if-tool/"><b>What if Tool</b></a> - Google-backe research<br>
@@ -106,7 +108,6 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rushter/data-science-blogs"><b>DS Blogs</b></a> - Curated Top Blogs on Data Science<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g/videos"><b>Ctrl Shift Face</b></a> - Deep Fake Videos<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://grover.allenai.org/"><b>Grover</b></a> - Neural Fake News Detector<br>
-
 
 ##### :black_small_square: Workspace 
 <p> 
