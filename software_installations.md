@@ -39,3 +39,6 @@
 
 #### How to uninstall non-essential apps on Windows?
 > https://www.howtogeek.com/224798/how-to-uninstall-windows-10s-built-in-apps-and-how-to-reinstall-them/
+
+#### Spectre Meltdown - Do you have it on Windows?
+> https://www.grc.com/inspectre.htm?utm_source=share&utm_medium=ios_app
