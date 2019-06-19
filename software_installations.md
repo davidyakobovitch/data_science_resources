@@ -42,3 +42,6 @@
 
 #### Spectre Meltdown - Do you have it on Windows?
 > https://www.grc.com/inspectre.htm?utm_source=share&utm_medium=ios_app
+
+#### How to remove Speaker Echo on Windows?
+> https://www.techwalla.com/articles/how-to-fix-your-laptop-when-it-echoes
