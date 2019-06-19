@@ -37,6 +37,9 @@
 #### What is the best software to update Drivers for Windows?
 > driver reviewer or driver booster or driverPack
 
+#### Realtek Driver Issues with Headphones on Windows 10
+> https://windowsreport.com/windows-10-wont-recognize-headphones/
+
 #### How to uninstall non-essential apps on Windows?
 > https://www.howtogeek.com/224798/how-to-uninstall-windows-10s-built-in-apps-and-how-to-reinstall-them/
 
