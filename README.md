@@ -97,6 +97,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pair-code.github.io/what-if-tool/"><b>What if Tool</b></a> - Google-backe research<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://selfdrivingcars.mit.edu/deeptraffic/"><b>Self-Driving</b></a> - MIT Demo<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://talktotransformer.com/"><b>NLP Text Transformer</b></a> - OpenAI<br>  
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://transformer.huggingface.co/"><b>NLP Text Transformer</b></a> - Demo<br>   
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://gltr.io/dist/index.html"><b>Auto Text Detect</b></a> - MIT/IBM/Harvard<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/"><b>DBScan Demo</b></a> and <a href="https://www.naftaliharris.com/blog/visualizing-k-means-clustering/"><b>KMeans Demo</b></a><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/josephmisiti/awesome-machine-learning"><b>ML Resources</b></a> - For all Programming Languages<br>
@@ -109,6 +110,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g/videos"><b>Ctrl Shift Face</b></a> - Deep Fake Videos<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://grover.allenai.org/"><b>Grover</b></a> - Neural Fake News Detector<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ganpaint.io/demo/?project=church"><b>GAN Paint</b></a> - Studio<br>
+
 
 ##### :black_small_square: Workspace 
 <p> 
