@@ -110,7 +110,8 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g/videos"><b>Ctrl Shift Face</b></a> - Deep Fake Videos<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://grover.allenai.org/"><b>Grover</b></a> - Neural Fake News Detector<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ganpaint.io/demo/?project=church"><b>GAN Paint</b></a> - Studio<br>
-
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://thispersondoesnotexist.com/"><b>This Person Does Not Exist</b></a> - Style GAN<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://aiportraits.com/"><b>AI Portraits</b></a> - Create Your own<br>
 
 ##### :black_small_square: Workspace 
 <p> 
