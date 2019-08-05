@@ -37,7 +37,7 @@ Open data resources for Capstone Projects and your Data Science Journey.
 31. [NLP Data sets](https://gengo.ai/articles/the-best-25-datasets-for-natural-language-processing/)
 32. [Microsoft Research Open Data](https://msropendata.com/)
 33. [Github Code Search](http://jakubdziworski.github.io/tools/2016/08/26/github-code-advances-search-programmers-goldmine.html)
-34. [Public Data](http://kevinchai.net/dataset)
+34. [Public Data](http://kevinchai.net/datasets)
 35. [Open Source Sports](http://www.opensourcesports.com/)
 36. [Machine Learning Datasets](https://www.datasetlist.com/)
 37. [CERN Open Data Portal](http://opendata.cern.ch/)
