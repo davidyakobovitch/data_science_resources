@@ -1,0 +1,21 @@
+# Shift + Enter - run the code and create new cell
+# Ctrl + Enter - run the code and stay in same cell
+# escape - toggles you out (similar to vim/vi)
+# escape + a - create a new cell above
+# escape + b - create a new cell below
+# escape + x - cuts a cell
+# escape + v - paste a cell
+# escape + dd - delete a cell
+# enter - enters a cell 
+# Ctrl + Shift + M - splits a cell
+# escape, highlight cells with shift, and then Shift + M - merges cell
+# escape + m - converts a cell to markdown
+# escape + y - converts a cell to code
+# ctrl + s - to save your file
+# Ctrl + z - undoes the change in the cell block
+# Ctrl + y - redoes the change in the cell block
+# escape + z - undoes the cell change in the notebook
+# escape + shift + z - redoes the cell change in the notebook
+# ctrl + shift + [] - navigate tabs
+# alt + w - closes a tab
+# Ctrl + Shift + T - Firefox-chrome shortcut 
