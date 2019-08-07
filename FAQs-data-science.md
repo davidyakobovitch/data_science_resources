@@ -117,4 +117,7 @@ How do I adjust my toggling in terminal editor?
 https://stackoverflow.com/questions/81272/is-there-any-way-in-the-os-x-terminal-to-move-the-cursor-word-by-word
 
 What are Modern Fonts for my presentations?
-Open Sans, Merriweather, Palanquin, Poppins, or Lato
+Lato, Palanquin, Open Sans, Poppins, or Merriweather
+
+How do you change a font on a Windows machine?
+https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows
