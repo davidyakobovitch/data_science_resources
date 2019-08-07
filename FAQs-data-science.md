@@ -115,3 +115,6 @@ https://stackoverflow.com/questions/22869192/git-bash-wont-run-my-python-files
 
 How do I adjust my toggling in terminal editor?
 https://stackoverflow.com/questions/81272/is-there-any-way-in-the-os-x-terminal-to-move-the-cursor-word-by-word
+
+What are Modern Fonts for my presentations?
+Open Sans, Merriweather, Palanquin, Poppins, or Lato
