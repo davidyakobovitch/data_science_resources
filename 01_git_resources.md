@@ -98,6 +98,12 @@ git commit --author="David Yakobovitch <david@gmail.com>"
 
 ###### View completed commits
 ```bash
+git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+git log --pretty=oneline --max-count=2
+git log --pretty=oneline --since='15 minutes ago'
+git log --pretty=oneline --until='15 minutes ago'
+git log --pretty=oneline --all
+git log --all --pretty=format:'%h %cd %s (%an)' --since='7 days ago'
 git log
 ```
 
@@ -320,6 +326,7 @@ The following aliases could be set in your .bash_aliases file to save keystrokes
 # Git Aliases
 # ----------------------
 ```
+Aliases for .profile or [alias] for .gitconfig
 alias gaa='git add .'
 alias gc='git commit'
 alias ga='git add'
