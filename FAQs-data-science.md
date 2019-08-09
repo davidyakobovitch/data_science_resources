@@ -121,3 +121,9 @@ Lato, Palanquin, Open Sans, Poppins, or Merriweather
 
 How do you change a font on a Windows machine?
 https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows
+
+How to disable Docker on Windows start-up?
+1 - Open Regedit
+2 - Check “HKCU\Software\Microsoft\Windows\CurrentVersion\Run” and “HKLM\Software\Microsoft\Windows\CurrentVersion\Run” (mine was under HKCU).
+3 - Remove the entry with “Docker for Windows”.
+4 - Restart the computer.
