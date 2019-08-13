@@ -1,20 +1,13 @@
 <font size="4em"><strong>Git Version Control</strong></font>
 
-#### Git is a universal version control system to provision, test, and deploy code. The following resources includes commands, aliases, and common responses to FAQs.
-
-
-##### FAQs:
-<ul>
-<li><a href="https://alanbarber.com/post/how-to-customize-the-git-for-windows-bash-shell-prompt/">Customize Git Bash for Windows</a></li>
-<li><a href="http://kurtdowswell.com/software-development/git-bash-aliases/">Set Aliases Gitbash Windows</a></li>
-</li>
-<li><a href="https://jonsuh.com/blog/git-command-line-shortcuts/">Additional Aliases</a></li>
-<li><a href="https://stackoverflow.com/questions/2553786/how-do-i-alias-commands-in-git">Customize Alias in Mac</a></li>
-<li><a href="https://help.github.com/en/articles/changing-a-remotes-url">Change SSH to HTTPS for Git</a></li>
-<li><a hrf="https://stackoverflow.com/questions/32268986/git-how-to-remove-proxy/32269086">Reset HTTPS Proxy</a></li>
-</ul>
+#### Git is a version control system to provision, test, and deploy code. The following resources includes frequently used commands, as a central location on Git.
 
 #### Git Commands
+
+```bash
+When a # is used, this indicates a comment
+When a <> is used, this indicates the location for a file, tag, hash, etc.
+```
 
 ###### Configure preferred name and e-mail for Authorship 
 ```bash
@@ -89,6 +82,7 @@ git diff --staged # after git add
 git commit -m "message goes here"
 git commit --message "message goes here"
 git commit --author="Vlad Dracula <vlad@tran.sylvan.ia>" # chan
+git commit --amend -m "comment" #Amends most recent commit for small update, shorter than a reset w/ commit
 ```
 
 ###### Change author for a specific commit when pair coding
@@ -111,6 +105,42 @@ git log
 ```bash
 [text_editor_name] .gitignore
 nano .gitgnore
+```
+
+###### Tags: A replacement for Hash strings
+```bash
+git tag v1 #Adds a tag to a commit
+git tag #View tags
+git tag -d tagname #Deletes the tag name
+```
+
+###### Checkout: Recover previous verisons
+```bash
+git checkout v1 # Checkout the branch to a specific commit with tag
+git checkout v2~1 # Checkouts 1 previous version with tag
+git checkout v2^1 # Checkouts 1 previous version with tag
+git checkout filename #Checkouts a specific filename
+```
+
+###### Reset
+```bash
+git reset HEAD <filename> #Undoes changes to the file from recent commit
+git reset --hard <tag or hash> #Undoes commit back to the previous version
+```
+
+###### Revert
+```bash
+git revert HEAD #Reverts changes after committing if accidently committed
+```
+
+###### History: View all commits
+```bash
+# First, be sure to set in ~/.gitconfig an [alias] for hist
+# [alias]
+# hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+git hist master --all # Show all commit history
+git hist --all # Show all history, even when a hard reset is performed, as all history is preserved
+# Note: HEAD is the currently checked out commit.
 ```
 
 ###### Exit Nano or Vi or Vim without saving changes
@@ -162,9 +192,10 @@ git show #displays the most recent commit on the HEAD
 git cat-file -p <commit-ID> #can be run on the tree (points to blobs), blob (sub-directory of files) or commit (points to tree) 
 ```
 
-###### Re-load shell
+###### Re-load shell with updates to profile or config
 ```bash
 source ~./profile
+source ~/.gitconfig 
 ```
 
 ###### Display wordcount of an object (requires ruby installation)
@@ -362,10 +393,22 @@ alias gstp='git stash pop'
 alias gsts='git stash save'
 ```
 
+##### FAQs:
+<ul>
+<li><a href="https://alanbarber.com/post/how-to-customize-the-git-for-windows-bash-shell-prompt/">Customize Git Bash for Windows</a></li>
+<li><a href="http://kurtdowswell.com/software-development/git-bash-aliases/">Set Aliases Gitbash Windows</a></li>
+</li>
+<li><a href="https://jonsuh.com/blog/git-command-line-shortcuts/">Additional Aliases</a></li>
+<li><a href="https://stackoverflow.com/questions/2553786/how-do-i-alias-commands-in-git">Customize Alias in Mac</a></li>
+<li><a href="https://help.github.com/en/articles/changing-a-remotes-url">Change SSH to HTTPS for Git</a></li>
+<li><a hrf="https://stackoverflow.com/questions/32268986/git-how-to-remove-proxy/32269086">Reset HTTPS Proxy</a></li>
+</ul>
+
 ### References:
 - https://www.toptal.com/git/tips-and-practices
 - https://www.atlassian.com/git/tutorials/what-is-version-control
 - https://gist.github.com/citizen428/16fb925fcca59ddfb652c7cb22809018
+- http://gitimmersion.com/
 
 How do I set up tree on windows?
 https://superuser.com/questions/531592/how-do-i-add-the-tree-command-to-git-bash-on-windows
