@@ -110,6 +110,7 @@ nano .gitgnore
 ###### Tags: A replacement for Hash strings
 ```bash
 git tag v1 #Adds a tag to a commit
+git tag <hash> #Adds a tag to a commit named with its hash 
 git tag #View tags
 git tag -d tagname #Deletes the tag name
 ```
@@ -126,6 +127,7 @@ git checkout filename #Checkouts a specific filename
 ```bash
 git reset HEAD <filename> #Undoes changes to the file from recent commit
 git reset --hard <tag or hash> #Undoes commit back to the previous version
+git fetch origin # Drops all your local changes and fetches latest history from server 
 ```
 
 ###### Revert
@@ -207,6 +209,11 @@ cat .git/objects/ce/<commit> | inflate | wc -c
 ###### Explore Hex characters
 ```bash
 cat .git/objects/ce/<commit> | inflate | hexdump -C
+```
+
+###### Gitk
+```bash
+gitk # Visual interactive of git repository
 ```
 
 
@@ -409,6 +416,14 @@ alias gsts='git stash save'
 - https://www.atlassian.com/git/tutorials/what-is-version-control
 - https://gist.github.com/citizen428/16fb925fcca59ddfb652c7cb22809018
 - http://gitimmersion.com/
+- [Git Manual Online](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/)
+- [Git User Manual](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html)
+- [Blog: The Thing About Git](https://tomayko.com/blog/2008/the-thing-about-git)
+- [The Simple Git Guide](http://rogerdudler.github.io/git-guide/)
+- [Pro Git Book](https://book.git-scm.com/book/en/v2)
+- [Github.com Help](https://help.github.com/en)
+- [Think Like a Git](http://think-like-a-git.net/)
+- [Fork - Merge Visualizer for Windows/Mac](https://fork.dev/windows)
 
 How do I set up tree on windows?
 https://superuser.com/questions/531592/how-do-i-add-the-tree-command-to-git-bash-on-windows

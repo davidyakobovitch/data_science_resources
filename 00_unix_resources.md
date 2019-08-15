@@ -38,6 +38,7 @@ Alt + 1
 ### References:
 <ul>
 <li><a href="http://man.he.net/">Manual Documents </a></li>
+<li><a href="https://man.cx/ls">Formatted Manual Docs</a></li>
 </ul>
 
 How do I save my Terminal output to a history log file?
