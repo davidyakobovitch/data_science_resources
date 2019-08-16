@@ -69,6 +69,8 @@ git add [file-1.text] [file-2.txt] # logs file changes for specific files
 ###### Show changes status in the active directory
 ```bash
 git status
+git status --short
+git status -s # See abbreviated changes
 ```
 
 ###### Show changes before and after staging as colored-words
@@ -85,6 +87,11 @@ git commit --author="Vlad Dracula <vlad@tran.sylvan.ia>" # chan
 git commit --amend -m "comment" #Amends most recent commit for small update, shorter than a reset w/ commit
 ```
 
+###### Commit and add in one line
+```bash
+git commit -a -m 'added new benchmarks' # Adds all changes and commits in one line
+```
+
 ###### Change author for a specific commit when pair coding
 ```bash
 git commit --author="David Yakobovitch <david@gmail.com>"
@@ -99,12 +106,20 @@ git log --pretty=oneline --until='15 minutes ago'
 git log --pretty=oneline --all
 git log --all --pretty=format:'%h %cd %s (%an)' --since='7 days ago'
 git log
+git log --patch cats.txt # Shows log and diff together
+git log -2 # Shows 2 most recent commits
 ```
 
-###### View files excluded by .gitignore
+###### .gitignore files
 ```bash
 [text_editor_name] .gitignore
 nano .gitgnore
+*.a # Do ignore all files with this extension
+!lib.a # Do not ignore this file
+doc/*.txt # Ignore only files in doc directory ending in extension
+doc/**/*.pdf # Ignore all files in doc directory and sub-directories ending in extension 
+build/ # Ignore all files in directory named build
+/heart # Ignore the heart file in current directory
 ```
 
 ###### Tags: A replacement for Hash strings
@@ -121,6 +136,11 @@ git checkout v1 # Checkout the branch to a specific commit with tag
 git checkout v2~1 # Checkouts 1 previous version with tag
 git checkout v2^1 # Checkouts 1 previous version with tag
 git checkout filename #Checkouts a specific filename
+```
+
+###### Remove a file
+```bash
+git rm <filename> # Stages or adds the file for removal before commit
 ```
 
 ###### Reset
@@ -142,6 +162,7 @@ git revert HEAD #Reverts changes after committing if accidently committed
 # hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
 git hist master --all # Show all commit history
 git hist --all # Show all history, even when a hard reset is performed, as all history is preserved
+git hist --stat # Shows changes per each file as well
 # Note: HEAD is the currently checked out commit.
 ```
 
@@ -216,18 +237,10 @@ cat .git/objects/ce/<commit> | inflate | hexdump -C
 gitk # Visual interactive of git repository
 ```
 
-
-git status
-git log --patch cats.txt #Shows log and diff together
 4. git push origin master
 git remote add origin url #becomes master 
 
 git push -u origin master #Sends to web 
-
-git log --patch filename.txt
-git log -1
-git log --oneline #shows as one line per commit 
-git log --format=full
 
 # Revision changes 
 1. git diff HEAD or 8a61d07 mars.txt #show the most recent change(s)
