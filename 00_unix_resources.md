@@ -14,14 +14,22 @@ pwd
 cd ~
 cd 
 cd $HOME
+. # Current directory
 ```
 
 ###### List files
 ```bash
 ls
-ls -l
-ls -lha
+ls -l # List files in long format
+ls -a # List all files including hidden files
 ls -A
+ls -lha # Human readable format
+```
+
+###### Create local file
+```bash
+echo "Text" > file.txt # Dump displayed contents into a file and overwrite existing file
+echo "Text" >> file.txt # Dump displayed contents into a file and add to existing file
 ```
 
 ###### Type ~ Command on Spanish keyboards 
@@ -33,6 +41,12 @@ Alt + gr + +
 ###### Type | Pipe Command on Spanish keyboards 
 ```bash
 Alt + 1
+```
+
+###### Processes 
+```bash
+ps # List processes running
+reset # Resets terminal if stuck
 ```
 
 ### References:

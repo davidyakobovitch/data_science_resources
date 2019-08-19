@@ -1,49 +1,44 @@
 <font size="4em"><strong>Git Version Control</strong></font>
 
-#### Git is a version control system to provision, test, and deploy code. The following resources includes frequently used commands, as a central location on Git.
-
-#### Git Commands
-
+###### Git Commands
 ```bash
 When a # is used, this indicates a comment
 When a <> is used, this indicates the location for a file, tag, hash, etc.
 ```
 
-###### Configure preferred name and e-mail for Authorship 
+###### Configuration Settings 
 ```bash
-git config --global user.name "David Yakobovitch"
-git config --global user.email "david@gmail.com"
-```
-
-###### Configure CR LF message display  
-```bash
-git config --global core.autocrlf input
-git config --global core.autocrlf false 
-```
-
-###### Set your preferred text editor
-```bash
-git config --global core.editor "emacs"
-```
-
-###### View configuration settings
-```bash
-git config --list
-```
-
-###### View help settings
-```bash
-git config --help
+git config --global user.name "David Yakobovitch" # Set a name for commits
+git config --global user.email "david@gmail.com" # Set an e-mail for commits
+git config --global core.askpass # If wrong password typed, remind Github/Bitbucket/Gitlab to ask for password
+git config --global core.autocrlf input # Disable CR LF message
+git config --global core.autocrlf false # Disable CR LF message
+git config --global core.editor "code" # Set your preferred text editor with Git
+git config --list # View configuration settings
+git config --help # View help for configuration options
+git config --global rerere.enabled true # Avoid Repeated Merge conflicts
+git config --global http.proxy http://user:password@proxy.url # Configure proxy credentials
+git config --global https.proxy http://user:password@proxy.url
 ```
 
 ###### Clone a repository from Github
 ```bash
 git clone [_url_here] [directory_name_here] [local_file_path_here]
+git clone <dir> <new_dir_name> # Creates a clone of directory as new repository locally
 ```
 
-###### View the repository connected to from the remote
+###### Pull a Remote Repository
 ```bash
-git remote -v
+git pull # Equivalent to git fetch, and then git merge origin/master 
+```
+
+###### Remote repositories
+```bash
+git remote -v # View the remote repository location
+git remote # View the remote repository name
+git remote show <repo_name> # Shows info about the remote repository
+git remote add shared <repo_location> # Adds the repo as a remote to original repo
+git remote add origin url #becomes master 
 ```
 
 ###### Initalize a local git on host machine
@@ -66,35 +61,30 @@ git add [file.txt] # logs a file change
 git add [file-1.text] [file-2.txt] # logs file changes for specific files
 ```
 
-###### Show changes status in the active directory
-```bash
-git status
-git status --short
-git status -s # See abbreviated changes
-```
-
-###### Show changes before and after staging as colored-words
-```bash
-git diff # before git add 
-git diff --staged # after git add
-```
-
 ###### Commit changes to the git log
 ```bash
 git commit -m "message goes here"
 git commit --message "message goes here"
 git commit --author="Vlad Dracula <vlad@tran.sylvan.ia>" # chan
 git commit --amend -m "comment" #Amends most recent commit for small update, shorter than a reset w/ commit
-```
-
-###### Commit and add in one line
-```bash
 git commit -a -m 'added new benchmarks' # Adds all changes and commits in one line
+git commit --author="David Yakobovitch <david@gmail.com>" # Change author for a specific commit message
+git commit --amend                  # start $EDITOR to edit/amend the message
 ```
 
-###### Change author for a specific commit when pair coding
+###### Status - show changes to the version controlled files
 ```bash
-git commit --author="David Yakobovitch <david@gmail.com>"
+git status
+git status --short # See abbreviated changes
+git status -s # See abbreviated changes
+```
+
+###### Show changes before and after staging as colored-words
+```bash
+git diff # Shows changed before git add
+git diff --staged # Shows changed after git add before git commit
+git diff HEAD <hash> <file_name> # Show the most recent changes for file on a Hash commit
+git diff HEAD~1 <file_name> # Shows changes to file one previous version
 ```
 
 ###### View completed commits
@@ -120,6 +110,7 @@ doc/*.txt # Ignore only files in doc directory ending in extension
 doc/**/*.pdf # Ignore all files in doc directory and sub-directories ending in extension 
 build/ # Ignore all files in directory named build
 /heart # Ignore the heart file in current directory
+echo filename >> .gitingore # add it to .gitignore to avoid re-adding it
 ```
 
 ###### Tags: A replacement for Hash strings
@@ -135,7 +126,12 @@ git tag -d tagname #Deletes the tag name
 git checkout v1 # Checkout the branch to a specific commit with tag
 git checkout v2~1 # Checkouts 1 previous version with tag
 git checkout v2^1 # Checkouts 1 previous version with tag
-git checkout filename #Checkouts a specific filename
+git checkout <file_name> #Checkouts a specific filename
+git checkout . # Reset all uncomitted code
+git checkout HEAD~1 # Roll back one version
+git checkout <hash> <file_name> # Roll back one version for a file
+git checkout -f master <file_name> # Checks out one previous commit for file from Github/Bitbucket/Gitlab
+git checkout master
 ```
 
 ###### Remove a file
@@ -143,16 +139,26 @@ git checkout filename #Checkouts a specific filename
 git rm <filename> # Stages or adds the file for removal before commit
 ```
 
-###### Reset
+###### Reset to undo changes
 ```bash
-git reset HEAD <filename> #Undoes changes to the file from recent commit
-git reset --hard <tag or hash> #Undoes commit back to the previous version
+git reset HEAD <filename> # Undoes changes to the file from recent commit
+git reset --hard <tag or hash> # Undoes commit back to the previous version
 git fetch origin # Drops all your local changes and fetches latest history from server 
+git reset HEAD <file_name> # Removes staged files
+git reset HEAD~2        # Undoes last two commits, keep changes
+git reset --hard HEAD~2 # Undoes last two commits, discard changes  
+git reset <file_name>      # Removes file; same operation as git remove --cached <file_name>
+git reset --soft HEAD~1 # Soft reset against messy code, but still exists so you can fix and re-commit 
+git reset --hard HEAD~1 # Permanently erases previous commit
 ```
 
-###### Revert
+###### Revert commits to previous states
 ```bash
 git revert HEAD #Reverts changes after committing if accidently committed
+git revert c761f5c              # reverts the commit with the specified id
+git revert HEAD^                # reverts the second to last commit
+git revert develop~4..develop~2 # reverts a whole range of commits
+git revert -n HEAD # undo the last commit, but don't create a revert commit 
 ```
 
 ###### History: View all commits
@@ -166,48 +172,10 @@ git hist --stat # Shows changes per each file as well
 # Note: HEAD is the currently checked out commit.
 ```
 
-###### Exit Nano or Vi or Vim without saving changes
-```bash
-q!
-Shift :q
-```
-
-###### Exit & Save Nano or Vi
-```bash
-Escape
-Shift + :
-wq
-Enter
-```
-
-###### Keystrokes to Exit & Save in Nano or Vi
-```bash
-Ctrl + X
-Y
-Enter
-```
-
-#### Unix Commands
-
-###### Show all hidden files and folders in active directory
-```bash
-ls -A
-ls -lha # Human readable format
-```
-
-### Edit the Commit Message
-git commit --amend                  # start $EDITOR to edit the message
-git commit --amend -m "New message" # set the new message directly
-
-
 ###### Display the most recent commit
 ```bash
-git show #displays the most recent commit on the HEAD
-```
-
-###### Display the most recent commit
-```bash
-git show #displays the most recent commit on the HEAD
+git show # Displays the most recent commit on the HEAD
+git show HEAD~2 mars.txt # View version to roll back
 ```
 
 ###### Display the commit in a pretty-print format
@@ -221,127 +189,85 @@ source ~./profile
 source ~/.gitconfig 
 ```
 
-###### Display wordcount of an object (requires ruby installation)
+###### Dump files to your terminal
 ```bash
-cat .git/objects/ce/<commit> | inflate | wc -c
+cat .git/objects/ce/<commit> | inflate | wc -c # Display wordcoutn of an object (requirs ruby installation)
+cat .git/objects/ce/<commit> | inflate | hexdump -C # Explore hex characters
 ```
 
-
-###### Explore Hex characters
-```bash
-cat .git/objects/ce/<commit> | inflate | hexdump -C
-```
-
-###### Gitk
+###### Gitk or Visual interactive (Personally recommend Fork software for Mac/Windows)
 ```bash
 gitk # Visual interactive of git repository
 ```
 
-4. git push origin master
-git remote add origin url #becomes master 
+###### Push updates to Online repository
+```bash
+git push origin master # Pushes the updates to the master branch
+git push -u origin master
+git push --force # forces a push, could have issues with conflicts
+git push shared master # Push changes to a remote shared repository 
+```
 
-git push -u origin master #Sends to web 
-
-# Revision changes 
-1. git diff HEAD or 8a61d07 mars.txt #show the most recent change(s)
-git diff HEAD~1 mars.txt
-2. git show HEAD~2 mars.txt #view version to roll back
-ctrl + shift + c #gitbash copy for PC 
-ctrl + v #pastes for gitbash 
-3. git checkout HEAD~1 or f22b25e mars.txt # roll back one line
-git reset HEAD mars.txt #removes staged files
-git checkout -f master mars.txt #Checks out one previous commit on Github
-
-unset SSH_ASKPASS #asks for password 
-#For Proxys
-git config --global http.proxy http://user:password@proxy.url
-git config --global https.proxy http://user:password@proxy.url
-
-# Merge conflicts between branches
-git checkout feature 
-git rebase -i master
-
-git checkout feature
-git merge master 
+###### Merging Branches
+```bash
+git merge feature # The feature branch merges into the master branch 
 git merge master feature 
-
-git revert 
-git checkout 
-
-git push --force
-
 git merge-base feature master 
+git merge origin/master # Can locally merge changes after a git fetch if desired
+```
 
+###### Branching
+```bash
+git branch <branch_name> # Creates a new branch
+git checkout -b <branch_name> # Creates a new branch and switches to the branch 
+git branch # View all local branches
+git branch -a # View all branches
+git branch -d <branch_name> # Deletes a branch 
+git branch --track <branch_name> origin/<branch_name> # Add a local branch that tracks a remote branch
+```
+
+###### Fetching Remote Updates
+```bash
+git fetch # Retrieves updates from remote repo but does not merge them
+```
+
+###### Bare Repositories
+```bash
+git clone --bare hello hello.git # Used for sharing commits without files
+```
+
+###### Rebase or merge branches together and other commands
+```bash
+git rebase -i master
+git rebase -i HEAD~2 # be presented with last 3 commits --root # for local
+git rebase --onto HEAD [commitID] master 
+git rebase --continue 
+git rebase --skip 
+git rebase --interactive 
+git rebase --interactive origin branch
+git rebase --abort #cancels the rebase 
 git stash # code available for later
 git stash list # see the changes 
 git stash apply #applies stash 
 git stash apply stash@{1}
-git checkout . # reset all uncomitted code
 git stash branch 'debugging-branch' # saves stashes in new branch 
 git stash drop stash@{2} #drops one stash at a time 
 git stash clear # removes all stashes 
-
-git reset --soft HEAD~1 # soft reset against messy code, but still exists so you can fix and re-commit 
-git reset --hard HEAD~1 #permanently erases previous commit
-
 git bisect start #launches git bisect utility 
 git bisect bad [commitID] #indicate where a problem exists
-
-git checkout [commitID] # to examine when in git bisect where the problem no longer occured
-
 git bisect good [commitID] #git searches for where issue occured and resolves 
 git bisect bad [no commit ID needed]  # if still bad 
-
 git bisect good #once it's good 
-git show #reveal the commit and where issue occured 
-
 git bisect reset #reset branch to normal working state after 
-
-git rebase -i HEAD~2 # be presented with last 3 commits --root # for local
 pick [commitID] # a screen will appear and you can change all before pick to say squash to merge them
 squash [commitID] # squash specific id into the pick 
-git push 
-git push --force #forces the push
-Git rebase --abort #cancels the rebase 
-
-git checkout #to explore changes to consider to commits 
-
-git add -A  #git knows to remove it 
-git commit --amend -v #to edit commit message 
-git rebase --onto HEAD [commitID] master 
-
-git rebase --continue 
-git rebase --skip 
-
-git rebase --interactive 
-# if you didn't specify any tracking information for this branch 
-# you will have to add upstream and remote branch information: 
-git rebase --interactive origin branch
-
-### Additional Git Options
-git reset HEAD~2        # undo last two commits, keep changes
-git reset --hard HEAD~2 # undo last two commits, discard changes  
-
 git checkout -- Gemfile # reset specified path 
+ctrl + shift + c #gitbash copy for PC 
+ctrl + v #pastes for gitbash 
+unset SSH_ASKPASS #asks for password 
+```
 
-git reset filename          # or git remove --cached filename
-echo filename >> .gitingore # add it to .gitignore to avoid re-adding it
-
-git add forgotten_file 
-git commit --amend
-
-### Reverting Pushed Commits
-git revert c761f5c              # reverts the commit with the specified id
-git revert HEAD^                # reverts the second to last commit
-git revert develop~4..develop~2 # reverts a whole range of commits
- 
-### undo the last commit, but don't create a revert commit 
-git revert -n HEAD
-
-### Avoid Repeated Merge conflicts
-git config --global rerere.enabled true
-
-### Gitbash Shortcuts
+###### Gitbash Shortcuts
 <li>Ctrl-a		Move to the start of the line.</li>
 <li>Ctrl-e		Move to the end of the line.</li>
 <li>Ctrl-b		Move back one character.</li>
@@ -369,15 +295,8 @@ git config --global rerere.enabled true
 <li>!^		First argument of last command</li>
 <li>^abc^xyz	Replace first occurance of abc with xyz in last command and execute it</li>
 
-### Aliases:
-
-The following aliases could be set in your .bash_aliases file to save keystrokes when processing git commands.
-
-# ----------------------
-# Git Aliases
-# ----------------------
+###### Aliases for .profile or [alias] for .gitconfig
 ```
-Aliases for .profile or [alias] for .gitconfig
 alias gaa='git add .'
 alias gc='git commit'
 alias ga='git add'
@@ -413,22 +332,8 @@ alias gstp='git stash pop'
 alias gsts='git stash save'
 ```
 
-##### FAQs:
-<ul>
-<li><a href="https://alanbarber.com/post/how-to-customize-the-git-for-windows-bash-shell-prompt/">Customize Git Bash for Windows</a></li>
-<li><a href="http://kurtdowswell.com/software-development/git-bash-aliases/">Set Aliases Gitbash Windows</a></li>
-</li>
-<li><a href="https://jonsuh.com/blog/git-command-line-shortcuts/">Additional Aliases</a></li>
-<li><a href="https://stackoverflow.com/questions/2553786/how-do-i-alias-commands-in-git">Customize Alias in Mac</a></li>
-<li><a href="https://help.github.com/en/articles/changing-a-remotes-url">Change SSH to HTTPS for Git</a></li>
-<li><a hrf="https://stackoverflow.com/questions/32268986/git-how-to-remove-proxy/32269086">Reset HTTPS Proxy</a></li>
-</ul>
-
-### References:
-- https://www.toptal.com/git/tips-and-practices
-- https://www.atlassian.com/git/tutorials/what-is-version-control
-- https://gist.github.com/citizen428/16fb925fcca59ddfb652c7cb22809018
-- http://gitimmersion.com/
+###### References 
+- [Atlassian Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control)
 - [Git Manual Online](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/)
 - [Git User Manual](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html)
 - [Blog: The Thing About Git](https://tomayko.com/blog/2008/the-thing-about-git)
@@ -437,18 +342,19 @@ alias gsts='git stash save'
 - [Github.com Help](https://help.github.com/en)
 - [Think Like a Git](http://think-like-a-git.net/)
 - [Fork - Merge Visualizer for Windows/Mac](https://fork.dev/windows)
+- [Git Immersion](gitimmersion.com)
+- [Toptal Best Practices](https://www.toptal.com/git/tips-and-practices)
+- [Git Workflows](https://www.toptal.com/git/git-workflows-for-pros-a-good-git-guide)
+- [Advanced Git Commands](https://www.toptal.com/git/the-advanced-git-guide)
 
-How do I set up tree on windows?
-https://superuser.com/questions/531592/how-do-i-add-the-tree-command-to-git-bash-on-windows
-
-How do I rename my Windows computer for Gitbash?
-https://kb.iu.edu/d/ajnx
-
-How do I customize Git bash display for Windows?
-https://alanbarber.com/post/how-to-customize-the-git-for-windows-bash-shell-prompt/
-
-How do I change default Git location launch for Jupyter and Git bash on Windows?
-http://practicalseries.com/1002-vcs/03-03-install.html
-
-How to set Conda commands to run from git bash on Windows 10?
-https://stackoverflow.com/questions/44597662/conda-command-is-not-recognized-on-windows-10?rq=1
+###### FAQs:
+- [Set up Tree on Windows](https://superuser.com/questions/531592/how-do-i-add-the-tree-command-to-git-bash-on-windows)
+- [Rename Windows Computer in Git Bash](https://kb.iu.edu/d/ajnx)
+- [Customize Gitbash Display Windows](https://alanbarber.com/post/how-to-customize-the-git-for-windows-bash-shell-prompt/)
+- [Change Default Git location for Jupyter and Git Bash Windows](http://practicalseries.com/1002-vcs/03-03-install.html)
+- [Set Conda Commands from Git bash Windows 10](https://stackoverflow.com/questions/44597662/conda-command-is-not-recognized-on-windows-10?rq=1)
+- [Reset HTTPS Proxy Git Bash](https://stackoverflow.com/questions/32268986/git-how-to-remove-proxy/32269086)
+- [Change SSH to HTTPS Git](https://help.github.com/en/articles/changing-a-remotes-url)
+- [Customize Alias on Mac for Git](https://stackoverflow.com/questions/2553786/how-do-i-alias-commands-in-git)
+- [Create Additional Git Aliases](https://jonsuh.com/blog/git-command-line-shortcuts/)
+- [Set Aliases Git Bash Windows](http://kurtdowswell.com/software-development/git-bash-aliases/)
