@@ -1,28 +1,55 @@
-This readme file is a reference resource for common markdown elements that could be integrated for files in Jupyter notebooks, Github repositories, and common LaTeX document structures.
+###### Markdown Reference Guide
+<hr size="3">
 
+###### Headers
+```markdown
+# Level 1 Header
+## Level 2 Header
+### Level 3 Header
+#### Level 4 Header
+##### Level 5 Header
+###### Level 6 Header
+```
+
+###### In-line Linkage
+```markdown
 <a href='#top_of_page' id='top_of_page' class='anchor' aria-hidden='true'>Top of Page</a>
+[Top of page](#top_of_page)
 
----
-**Headers**
+[Relative link to a folder](../blob/master/LICENSE)
+[Inline-style link with title](https://www.google.com "Google's Homepage")
+```
 
-A common structure to organize documents includes headers.  Headers can range from 1 to 6 levels of sizing with hashtags.
+###### Text formatting
+```bash
+*Italics* # Italic text
+**Bold** # Bold text
+_Bold-Italic_ # Bold and Italic text
+~~Strikethrough~~ # Strikethrough text
+\*literal asterisks\* # Show symbols
+- [x] # Complete item in list
+- [ ] # Incomplete item in list
+$$ x + y $$ # Coverts into Latex equations
+```
 
-# This is the largest possible header using `1#`
-## This is the second largest possible header using `2#'s`
-###### This is the smallest possible header using `6#'s`
----
-[Here is a link on the same page](#bottom_of_page)
+###### Code/Syntax Highlighting
+```bash
+`code` # Represents a code block
+```
+```python
+new_string = 'Hello World' # ```python for python block
+```
 
----
-**Bold Elements**
+```python
+In [1]: variable = 'Hello World'
 
-Using the `**` syntax, you can format your text with the bold/strong emphasis element:
-> **Here is bold text by using `**` before and after.**
----
-**Italic Elements**
+In [2]: whos
+Variable   Type    Data/Info
+============================
+my_num     str     'Hello World'
+```
 
-Using the `*` syntax, you can format your text with the italic emphasis element:
-> *This line of text is italicized text by using `*` before and after the text.*
+
 ---
 **Color for your text**
 
@@ -57,7 +84,8 @@ As an alternative, you can create lists within lists, or nested bullet points.
 * Here is our first bullet point in the second list. 
   * After typing **2 spaces** before this second bullet point, we have created a nested list.
     * This process can continue on several layers, if you so choose.
-  
+    * Lists can use *, -, +, or 1., or 2)
+
 ---
 **Emojis (the new emoticon)**
 
@@ -74,16 +102,16 @@ _Some examples follow:_
 You can view a comprehensive list on the [emoji cheatsheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/).
 
 ---
- ### Data dictionary goes below
- | Column 1 | Column 2 | Column 3 |
- |----------|----------|----------|
- |variable | definition | qualities|
+ ### Tables or Data Dictionaries
+  Column 1 | Column 2 | Column 3 
+ ---|---|---
+ variable | definition | qualities
  
-| Column | Type of Data | Examples of data |
-|--------|---------------|-------------------|
-|Gender | categorical | Male or Female |
-| Height | numerical |  range of 5" to 6'5" | 
-| BMI | ordinal | 20 to 35 |
+ Column | Type of Data | Examples of data 
+---|---|---
+Gender | categorical | Male or Female 
+ Height | numerical |  range of 5" to 6'5"  
+ BMI | ordinal | 20 to 35 
  
  ---
  Horizontal line above
@@ -101,18 +129,6 @@ You can view a comprehensive list on the [emoji cheatsheet](https://www.webpagef
 Regular text
 Ending the dropdown
 </details>
-
-### Display code in markdown
-> If you would like to display code in markdown, start with the docstring characters of (triple titled '''python) or your preferred language.
-
-```python
-In [1]: variable = 'Hello World'
-
-In [2]: whos
-Variable   Type    Data/Info
-============================
-my_num     str     'Hello World'
-```
 
 ---
 ### Support is included for special characters
@@ -150,7 +166,6 @@ These can be written as &#8721; `&#8721;` using [XML and HTML elements](https://
 
 # Bottom_of_page
 
-[Top of page](#top_of_page)
 
 ## Licenses
 License

@@ -85,6 +85,8 @@ git diff # Shows changed before git add
 git diff --staged # Shows changed after git add before git commit
 git diff HEAD <hash> <file_name> # Show the most recent changes for file on a Hash commit
 git diff HEAD~1 <file_name> # Shows changes to file one previous version
+git diff master..<branch_name> #Display differences between branches
+git diff format-patch master..<branch_name> # Generates a file with patch for each commit reachable in the branch but not from the master
 ```
 
 ###### View completed commits
@@ -115,10 +117,10 @@ echo filename >> .gitingore # add it to .gitignore to avoid re-adding it
 
 ###### Tags: A replacement for Hash strings
 ```bash
-git tag v1 #Adds a tag to a commit
-git tag <hash> #Adds a tag to a commit named with its hash 
-git tag #View tags
-git tag -d tagname #Deletes the tag name
+git tag -l # View the tag history as a list
+git tag v1 # Adds a tag to a commit
+git tag <tag_name> <hash> # Adds a tag to a commit named with its hash 
+git tag -d tagname # Deletes the tag name
 ```
 
 ###### Checkout: Recover previous verisons
@@ -176,6 +178,14 @@ git hist --stat # Shows changes per each file as well
 ```bash
 git show # Displays the most recent commit on the HEAD
 git show HEAD~2 mars.txt # View version to roll back
+git show HEAD^ or git show HEAD^1 or git show HEAD~ # View the parent of the HEAD commit
+git show HEAD^^ # View the grandparent or second parent of the HEAD commit
+git show <tag or hash>:<file_name> # View old version of the file
+```
+
+###### Rev-list: Display git quantity difference
+```bash
+git rev-list master..<your_branch> | wc -l # View how many commits ahead your branch is over the master/origin
 ```
 
 ###### Display the commit in a pretty-print format
@@ -197,7 +207,7 @@ cat .git/objects/ce/<commit> | inflate | hexdump -C # Explore hex characters
 
 ###### Gitk or Visual interactive (Personally recommend Fork software for Mac/Windows)
 ```bash
-gitk # Visual interactive of git repository
+gitk # Visual interactive of all commits in a git repository
 ```
 
 ###### Push updates to Online repository
@@ -224,6 +234,7 @@ git branch # View all local branches
 git branch -a # View all branches
 git branch -d <branch_name> # Deletes a branch 
 git branch --track <branch_name> origin/<branch_name> # Add a local branch that tracks a remote branch
+git branch -r # Examine branches being tracked from remote repositories
 ```
 
 ###### Fetching Remote Updates
