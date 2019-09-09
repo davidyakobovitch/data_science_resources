@@ -94,19 +94,11 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.interviewcake.com/"><b>Interview Cake</b></a> FAANG Practice Questions<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/markdown_reference.md"><b>Markdown</b></a> -  Framework for Formatting Text<br>
 
-##### :black_small_square: Product Research
+##### :black_small_square: Applied Research & Development
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://paperswithcode.com/sota"><b>State of the Art</b></a> - ML Papers w/ Code<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.arxiv-sanity.com/"><b>Arxiv Reports</b></a> ArXiv Sanity<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://s2-sanity.apps.allenai.org/cold-start"><b>Arxiv Adaptive Learning</b></a> ArXiv Sanity<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://playground.tensorflow.org"><b>TensorFlow Playground</b></a> - Neural Networks Demo<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://poloclub.github.io/ganlab/"><b>GANs</b></a> - Demo<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://pair-code.github.io/what-if-tool/"><b>What if Tool</b></a> - Google-backe research<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://selfdrivingcars.mit.edu/deeptraffic/"><b>Self-Driving</b></a> - MIT Demo<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://talktotransformer.com/"><b>NLP Text Transformer</b></a> - OpenAI<br>  
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://transformer.huggingface.co/"><b>NLP Text Transformer</b></a> - Demo<br>   
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://gltr.io/dist/index.html"><b>Auto Text Detect</b></a> - MIT/IBM/Harvard<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/"><b>DBScan Demo</b></a> and <a href="https://www.naftaliharris.com/blog/visualizing-k-means-clustering/"><b>KMeans Demo</b></a><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/josephmisiti/awesome-machine-learning"><b>ML Resources</b></a> - For all Programming Languages<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://arxiv-sanity.com/top"><b>Top Papers</b></a> - ArxiV Curator Across Domains<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://mybinder.org/"><b>Binder</b></a> and <a href="https://gist.github.com/"><b>Gist</b></a> - Sharing Code Resources<br>
@@ -115,12 +107,29 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://humanebydesign.com/"><b>Humane Principles</b></a> - Design Elements for Applications<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rushter/data-science-blogs"><b>DS Blogs</b></a> - Curated Top Blogs on Data Science<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g/videos"><b>Ctrl Shift Face</b></a> - Deep Fake Videos<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://grover.allenai.org/"><b>Grover</b></a> - Neural Fake News Detector<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://ganpaint.io/demo/?project=church"><b>GAN Paint</b></a> - Studio<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://thispersondoesnotexist.com/"><b>This Person Does Not Exist</b></a> - Style GAN<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://aiportraits.com/"><b>AI Portraits</b></a> - Create Your own<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.dlology.com/blog/top-10-deep-learning-experiences-run-on-your-browser/"><b>Deep Learning</b></a> - Browser Experiences<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tiobe.com/tiobe-index/"><b>Tiobe</b></a> - Most Popular Programming Languages<br>
+
+##### :black_small_square: AI Demos & Proof of Concepts
+<p> 
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://playground.tensorflow.org"><b>TensorFlow Playground</b></a> - Neural Networks Demo<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://pair-code.github.io/what-if-tool/"><b>What if Tool</b></a> - Google-backe research<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/"><b>DBScan Demo</b></a> and <a href="https://www.naftaliharris.com/blog/visualizing-k-means-clustering/"><b>KMeans Demo</b></a><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://talktotransformer.com/"><b>NLP Text Transformer</b></a> - OpenAI<br>  
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://transformer.huggingface.co/"><b>NLP Text Transformer</b></a> - Demo<br>   
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://gltr.io/dist/index.html"><b>Auto Text Detect</b></a> - MIT/IBM/Harvard<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://grover.allenai.org/"><b>Grover</b></a> - Neural Fake News Detector<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://thing-translator.appspot.com/"><b>Thing Translator</b></a> (Google)<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://experiments.withgoogle.com/ai/sound-maker/view/"><b>Sound Maker</b></a> (Google)<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://experiments.withgoogle.com/ai/ai-duet/view/"><b>AI Duet Piano</b></a> (Google)<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://experiments.withgoogle.com/ai/giorgio-cam/view/"><b>Giorgio Picture Cam</b></a> (Google)<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://experiments.withgoogle.com/ai/drum-machine/view/"><b>Infinite Drum Machine</b></a> (Google)<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://magenta.tensorflow.org/demos/"><b>Magenta Demos</b></a> (Google)<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://selfdrivingcars.mit.edu/deeptraffic/"><b>Self-Driving</b></a> - MIT Demo<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://poloclub.github.io/ganlab/"><b>GANs</b></a> - Demo<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://ganpaint.io/demo/?project=church"><b>GAN Paint</b></a> - Studio<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.dlology.com/blog/top-10-deep-learning-experiences-run-on-your-browser/"><b>Deep Learning</b></a> - Browser Experiences<br>
 
 ##### :black_small_square: Workspace 
 <p> 
