@@ -62,6 +62,13 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2MRpU6D">Deep Learning</a></strong> and <a href="http://www.deeplearningbook.org/exercises.html">Code</a> (Ian Goodfellow)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf">Data Science Yearning - Draft</a></strong> (Andrew Ng)<br>
 
+##### :black_small_square: Python Documentation
+<p> 
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://pandas.pydata.org/pandas-docs/stable/pandas.pdf"><b>Pandas</b></a> - Stable Docs<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://matplotlib.org/3.1.1/Matplotlib.pdf"><b>Matplotlib</b></a> - 3.1.1 Docs<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://scikit-learn.org/stable/documentation.html"><b>Sci-kit Learn</b></a> - Docs<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://docs.scipy.org/doc/"><b>Scipy and Numpy</b></a> - Docs<br>
+
 ##### :black_small_square: Code Challenges
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.codewars.com/"><b>Code Wars</b></a> - Programming challenges that are progressively harder.<br>
