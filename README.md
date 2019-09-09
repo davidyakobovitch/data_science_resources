@@ -113,6 +113,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://thispersondoesnotexist.com/"><b>This Person Does Not Exist</b></a> - Style GAN<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://aiportraits.com/"><b>AI Portraits</b></a> - Create Your own<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.dlology.com/blog/top-10-deep-learning-experiences-run-on-your-browser/"><b>Deep Learning</b></a> - Browser Experiences<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tiobe.com/tiobe-index/"><b>Tiobe</b></a> - Most Popular Programming Languages<br>
 
 ##### :black_small_square: Workspace 
 <p> 
