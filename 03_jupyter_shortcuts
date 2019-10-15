@@ -1,5 +1,6 @@
-# Shift + Enter - run the code and create new cell
-# Ctrl + Enter - run the code and stay in same cell
+# Shift + Enter - run the code and create new cell below
+# Ctrl + Enter - run the code and escape current cell
+# Alt + Enter - run the code, and enter a newly created cell below
 # escape - toggles you out (similar to vim/vi)
 # escape + a - create a new cell above
 # escape + b - create a new cell below
@@ -19,3 +20,11 @@
 # ctrl + shift + [] - navigate tabs
 # alt + w - closes a tab
 # Ctrl + Shift + T - Firefox-chrome shortcut 
+# Shift + Tab - View a tooltip documentation if available 
+# Shift + Space - Navigate the notebook up a page 
+# Space - Navigate the notebook down a apge
+# Ctrl + ] Or Ctrl + [ - Indent or dedent, when highlighted 
+# Ctrl + Home - Go to cell start 
+# Ctrl + End - Go to cell end 
+# Ctrl + Shift + L - New Launcher
+# Alt + W - Close a tab 
