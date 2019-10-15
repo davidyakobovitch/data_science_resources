@@ -164,8 +164,8 @@ These can be written as &#8721; `&#8721;` using [XML and HTML elements](https://
         </p>
     </div> End Internal hyperlinks -->
 
-# Bottom_of_page
-
+Resources:
+> [Git Flavored Markdown](https://github.github.com/gfm/)
 
 ## Licenses
 License
