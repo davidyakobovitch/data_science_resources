@@ -6,9 +6,15 @@ When a # is used, this indicates a comment
 When a <> is used, this indicates the location for a file, tag, hash, etc.
 ```
 
+###### Favorite Git Commands
+```bash
+git commit -a -m 'added new benchmarks' # Adds all changes and commits in one line
+```
+
 ###### Configuration Settings 
 ```bash
 git config --global user.name "David Yakobovitch" # Set a name for commits
+git config user.name # View what is username, and same option for other config parameters
 git config --global user.email "david@gmail.com" # Set an e-mail for commits
 git config --global core.askpass # If wrong password typed, remind Github/Bitbucket/Gitlab to ask for password
 git config --global core.autocrlf input # Disable CR LF message
@@ -19,17 +25,20 @@ git config --help # View help for configuration options
 git config --global rerere.enabled true # Avoid Repeated Merge conflicts
 git config --global http.proxy http://user:password@proxy.url # Configure proxy credentials
 git config --global https.proxy http://user:password@proxy.url
+git config --global alias.co checkout # create git alias for commands git co would now work
+git config --global alias.unstage 'reset HEAD--' # creates unstage command, I.e., (git unstage fileA)
 ```
 
 ###### Clone a repository from Github
 ```bash
 git clone [_url_here] [directory_name_here] [local_file_path_here]
 git clone <dir> <new_dir_name> # Creates a clone of directory as new repository locally
+git clone -o hello_world # Default remote branch named as hello_world/master
 ```
 
 ###### Pull a Remote Repository
 ```bash
-git pull # Equivalent to git fetch, and then git merge origin/master 
+git pull # Equivalent to git fetch, and then auto git merge origin/master 
 ```
 
 ###### Remote repositories
@@ -37,8 +46,12 @@ git pull # Equivalent to git fetch, and then git merge origin/master
 git remote -v # View the remote repository location
 git remote # View the remote repository name
 git remote show <repo_name> # Shows info about the remote repository
-git remote add shared <repo_location> # Adds the repo as a remote to original repo
+git remote show origin
+git remote add <shortname> <url> # Adds the repo as a remote to original repo
 git remote add origin url #becomes master 
+git remote rename pb paul # Rename remote repository shortnames 
+git remote remove paul # Removes a remote repository connection
+git ls-remote 
 ```
 
 ###### Initalize a local git on host machine
@@ -59,6 +72,7 @@ echo "text goes here" > file.txt #creates new file with text values
 git add . # all changes to be logged
 git add [file.txt] # logs a file change
 git add [file-1.text] [file-2.txt] # logs file changes for specific files
+git add -h # View all flag options with add command
 ```
 
 ###### Commit changes to the git log
@@ -83,6 +97,7 @@ git status -s # See abbreviated changes
 ```bash
 git diff # Shows changed before git add
 git diff --staged # Shows changed after git add before git commit
+git diff --cached # Same as git diff --staged
 git diff HEAD <hash> <file_name> # Show the most recent changes for file on a Hash commit
 git diff HEAD~1 <file_name> # Shows changes to file one previous version
 git diff master..<branch_name> #Display differences between branches
@@ -94,11 +109,13 @@ git diff format-patch master..<branch_name> # Generates a file with patch for ea
 git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
 git log --pretty=oneline --max-count=2
 git log --pretty=oneline --since='15 minutes ago'
+git log --pretty=oneline --since='2.weeks'
+git log --pretty=oneline --since='2008-01-15'
+git log --pretty=oneline --since='2 years 1 day 3 minutes ago'
 git log --pretty=oneline --until='15 minutes ago'
 git log --pretty=oneline --all
 git log --all --pretty=format:'%h %cd %s (%an)' --since='7 days ago'
-git log
-git log --patch cats.txt # Shows log and diff together
+git log --patch cats.txt # Shows log and diff together # Could use -p as alternative
 git log -2 # Shows 2 most recent commits
 ```
 
@@ -107,6 +124,9 @@ git log -2 # Shows 2 most recent commits
 [text_editor_name] .gitignore
 nano .gitgnore
 *.a # Do ignore all files with this extension
+.[oa] # Ignore files ending in .o or .a
+*~ # Ignore all files ending in tilda ~
+/TODO # only ignore the TODO file in the current directory, not subdir/TODO
 !lib.a # Do not ignore this file
 doc/*.txt # Ignore only files in doc directory ending in extension
 doc/**/*.pdf # Ignore all files in doc directory and sub-directories ending in extension 
@@ -115,12 +135,18 @@ build/ # Ignore all files in directory named build
 echo filename >> .gitingore # add it to .gitignore to avoid re-adding it
 ```
 
-###### Tags: A replacement for Hash strings
+###### Tags: A replacement for Hash strings - Reference points in time
 ```bash
 git tag -l # View the tag history as a list
+git tag -l "v1.8.5*" # View tags in 1.8.5 series
 git tag v1 # Adds a tag to a commit
 git tag <tag_name> <hash> # Adds a tag to a commit named with its hash 
 git tag -d tagname # Deletes the tag name
+git tag -a v1.4 -m "my version 1.4" # Creates annotated tag with a message
+git show v1.4 # Shows the info about the tag and commit attached, no other info 
+git tag -a v1.2 <hashid> # Attached a tag to a hashid
+git tag -d <tagname> # Deletes a tag
+git push origin --delete <tagname> # Delete a tag from remote
 ```
 
 ###### Checkout: Recover previous verisons
@@ -128,7 +154,7 @@ git tag -d tagname # Deletes the tag name
 git checkout v1 # Checkout the branch to a specific commit with tag
 git checkout v2~1 # Checkouts 1 previous version with tag
 git checkout v2^1 # Checkouts 1 previous version with tag
-git checkout <file_name> #Checkouts a specific filename
+git checkout <file_name> #Checkouts a specific filename # Removes local version
 git checkout . # Reset all uncomitted code
 git checkout HEAD~1 # Roll back one version
 git checkout <hash> <file_name> # Roll back one version for a file
@@ -139,13 +165,14 @@ git checkout master
 ###### Remove a file
 ```bash
 git rm <filename> # Stages or adds the file for removal before commit
+git rm --cached <filename> # Keep file in working tree, but remove from staging
 ```
 
 ###### Reset to undo changes
 ```bash
-git reset HEAD <filename> # Undoes changes to the file from recent commit
+git reset HEAD <filename> # Undoes changes to the file from recent commit, but is available to recommit
 git reset --hard <tag or hash> # Undoes commit back to the previous version
-git fetch origin # Drops all your local changes and fetches latest history from server 
+git fetch <shortname> # Downloads data from remote repo, but does not merge
 git reset HEAD <file_name> # Removes staged files
 git reset HEAD~2        # Undoes last two commits, keep changes
 git reset --hard HEAD~2 # Undoes last two commits, discard changes  
@@ -212,29 +239,41 @@ gitk # Visual interactive of all commits in a git repository
 
 ###### Push updates to Online repository
 ```bash
+git push <remote> <branch> # Push upstream to remote from a branch your updates
 git push origin master # Pushes the updates to the master branch
 git push -u origin master
 git push --force # forces a push, could have issues with conflicts
 git push shared master # Push changes to a remote shared repository 
+git push origin <tagname> # Pushes the tag to remote server, otherwise is only local
+git push origin --tags # Transfer all local tags to remote server not already there
+git push origin --delete <remote> # Deletes remote branch from main remote
 ```
 
 ###### Merging Branches
 ```bash
-git merge feature # The feature branch merges into the master branch 
+git merge feature # The feature branch merges into your active branch 
 git merge master feature 
 git merge-base feature master 
 git merge origin/master # Can locally merge changes after a git fetch if desired
+git mergetool # Launches your default merge tool to handle merges
 ```
 
 ###### Branching
 ```bash
 git branch <branch_name> # Creates a new branch
 git checkout -b <branch_name> # Creates a new branch and switches to the branch 
-git branch # View all local branches
+git checkout <remote_branch> # Creates and tracks branch if only 1 version on remote available 
+git checkout -b sn origin/branch # Creates branch with short alias name sn 
+git branch # View all local current branches
 git branch -a # View all branches
 git branch -d <branch_name> # Deletes a branch 
 git branch --track <branch_name> origin/<branch_name> # Add a local branch that tracks a remote branch
 git branch -r # Examine branches being tracked from remote repositories
+git branch -v # View the last commit on each branch 
+git branch -vv # Shows which local branches being tracked 
+git fetch --all; git branch -vv # For up-to-date tracking data
+git branch --merged # View which branches already merged into currently pointed branch 
+git branch --no-merged # Show branches not yet merged
 ```
 
 ###### Fetching Remote Updates
