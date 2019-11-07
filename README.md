@@ -57,6 +57,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2LD3vsw">Python Data Science Handbook</a></strong> and <a href="https://github.com/jakevdp/PythonDataScienceHandbook">Github</a> (Jake VanderPlas)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C">Introduction to Machine Learning</a></strong> and <a href="https://github.com/amueller/introduction_to_ml_with_python">Github</a> (Andreas C. Müller and Sarah Guido)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2kYxIGZ">Introduction to ML/Deep Learning</a></strong> and <a href="https://github.com/rasbt/python-machine-learning-book-2nd-edition">Github</a> (Sebastian Raschka, Vahid Mirjalili)<br>
+&nbsp;&nbsp;:small_orange_diamond: <strong>Data Science 100 - Berkeley</strong> and <a href="https://www.ds100.org">Website</a> (UCBerkeley)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://christophm.github.io/interpretable-ml-book/">Interpretable Machine Learning</a></strong> (Christoph Molnar)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2l3rd65">Deep Learning with Python</a></strong> and <a href="https://github.com/fchollet/deep-learning-with-python-notebooks">Github</a> (Francois Chollet)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2sKHRvf">Tensorflow Deep Learning Cookbook</a></strong> and <a href="https://github.com/agulli/tensorflowCookbook">Github</a> (Antonio Gulli, Amita Kapoor)<br>
@@ -132,6 +133,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://poloclub.github.io/ganlab/"><b>GANs</b></a> - Demo<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ganpaint.io/demo/?project=church"><b>GAN Paint</b></a> - Studio<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.dlology.com/blog/top-10-deep-learning-experiences-run-on-your-browser/"><b>Deep Learning</b></a> - Browser Experiences<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://exbert.net"><b>exBert</b></a> - Interactive Bert Demo<br>
 
 ##### :black_small_square: Workspace 
 <p> 
