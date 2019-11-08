@@ -20,9 +20,10 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://python.cs.southern.edu/pythonbook/pythonbook.pdf"><b>Python Fundamentals</b></a> - Rick Halterman PhD<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://amzn.to/2x0XgZG"><b>Tableau</b></a> - Big Book of Dashboards<br>
 
-##### :black_small_square: Version Control in Git
+##### :black_small_square: Git - Software Version Control
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://swcarpentry.github.io/git-novice/"><b>Software Carpentry</b></a> - Open source for Scientific Computing<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://git-scm.com/book/en/v2"><b>Git Book</b></a> - Official Git Documentation<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://lab.github.com/"><b>Github Lab</b></a> - Learn Git on Github<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.toptal.com/git/tips-and-practices"><b>Git on Toptal</b></a> - Best Practices for Git<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.toptal.com/git/the-advanced-git-guide"><b>Toptal - Tips</b></a> - Advanced Topics<br>
@@ -38,12 +39,13 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/"><b>Design Data-Intensive Applications</b></a> - System Design for Data<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491972955"><b>Advanced Analytics with Spark</b></a> - Perform KPI Analysis<br>
  
-##### :black_small_square: Stats & Math Textbooks
+##### :black_small_square: Statistics & Math Textbooks
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="http://www-bcf.usc.edu/~gareth/ISL/">Intro to Stats Learning</a></strong> (Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://sites.google.com/site/fundamentalstatistics/">Fundamental Statistics</a></strong> (Bryan R. Burnham) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="http://onlinestatbook.com/2/">Online Stats</a></strong> (Rice University, University of Houston, Tufts University) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/">Practical Statistics</a></strong> (Peter Bruce, Andrew Bruce) <br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1021&context=books">Linear Algebra and Applications:An Inquiry-Based Approach</a></strong> (Feryal Alayont, Steven Schlicker) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://www.amazon.com/Statistics-Nutshell-Desktop-Quick-Reference/dp/1449316824/">Statistics in a Nutshell</a></strong> (Sarah Boslaugh) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://ourway.keybase.pub/mathematics_cheat_sheet.pdf">All in One Math Cheat Sheet</a></strong> (Alex Spartalas) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="http://opendatastructures.org/mcs.pdf">Math for Computer Science</a></strong> (Eric Lehman, F Thomson Leighton, Albert R Meyer) <br>
