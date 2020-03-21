@@ -19,7 +19,8 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://openbookproject.net/thinkcs/python/english3e/"><b>How to Think Like a Computer Scientist</b></a> - Open source for Scientific Computing<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://python.cs.southern.edu/pythonbook/pythonbook.pdf"><b>Python Fundamentals</b></a> - Rick Halterman PhD<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://amzn.to/2x0XgZG"><b>Tableau</b></a> - Big Book of Dashboards<br>
-
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://danaernst.com/resources/free-and-open-source-textbooks/"><b>Open Source CS</b></a> - Free Textbooks<br>
+ 
 ##### :black_small_square: Git - Software Version Control
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://swcarpentry.github.io/git-novice/"><b>Software Carpentry</b></a> - Open source for Scientific Computing<br>
