@@ -138,6 +138,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.dlology.com/blog/top-10-deep-learning-experiences-run-on-your-browser/"><b>Deep Learning</b></a> - Browser Experiences<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://exbert.net"><b>exBert</b></a> - Interactive Bert Demo<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.beautifulfakefaces.com/"><b>GANs Demo</b></a> - Beautiful Fake Faces<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://detectfakes.media.mit.edu/"><b>Deepfake Detector</b></a> - MIT<br>
 
 ##### :black_small_square: Workspace 
 <p> 
