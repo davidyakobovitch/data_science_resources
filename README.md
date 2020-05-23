@@ -139,6 +139,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://exbert.net"><b>exBert</b></a> - Interactive Bert Demo<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.beautifulfakefaces.com/"><b>GANs Demo</b></a> - Beautiful Fake Faces<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://detectfakes.media.mit.edu/"><b>Deepfake Detector</b></a> - MIT<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.thisworddoesnotexist.com"><b>This Word Does Not Exist</b></a> - Tranformer Demo<br>
 
 ##### :black_small_square: Workspace 
 <p> 
