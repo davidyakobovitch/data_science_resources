@@ -42,6 +42,7 @@ Open data resources for Capstone Projects and your Data Science Journey.
 36. [Machine Learning Datasets](https://www.datasetlist.com/)
 37. [CERN Open Data Portal](http://opendata.cern.ch/)
 38. [Mexico Open Government Data](https://datos.gob.mx/)
+39. [NLP Datasets](https://datasets.quantumstat.com)
   
 <strong>APIs</strong>:
 <ol>
