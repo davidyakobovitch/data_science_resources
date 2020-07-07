@@ -116,6 +116,8 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://thispersondoesnotexist.com/"><b>This Person Does Not Exist</b></a> - Style GAN<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://aiportraits.com/"><b>AI Portraits</b></a> - Create Your own<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tiobe.com/tiobe-index/"><b>Tiobe</b></a> - Most Popular Programming Languages<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://pair.withgoogle.com/guidebook"><b>PAIR</b></a> - People + AI Guidebook (Google)<br>
+ 
 
 ##### :black_small_square: AI Demos & Proof of Concepts
 <p> 
