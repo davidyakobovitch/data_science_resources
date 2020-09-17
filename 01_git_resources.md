@@ -383,11 +383,12 @@ alias gsts='git stash save'
 ```
 
 ###### References 
+- [Software Carpentry Git Lesson](http://swcarpentry.github.io/git-novice/)
+- [The Simple Git Guide](http://rogerdudler.github.io/git-guide/)
 - [Atlassian Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control)
 - [Git Manual Online](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/)
 - [Git User Manual](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html)
 - [Blog: The Thing About Git](https://tomayko.com/blog/2008/the-thing-about-git)
-- [The Simple Git Guide](http://rogerdudler.github.io/git-guide/)
 - [Pro Git Book](https://book.git-scm.com/book/en/v2)
 - [Github.com Help](https://help.github.com/en)
 - [Think Like a Git](http://think-like-a-git.net/)
