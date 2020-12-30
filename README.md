@@ -16,7 +16,7 @@ The following are python, statistics, and machine learning recommended resources
 ##### :black_small_square: Pre-Data Science Texts
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://openbookproject.net/thinkcs/python/english3e/"><b>How to Think Like a Computer Scientist</b></a> - Open source for Scientific Computing<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="http://python.cs.southern.edu/pythonbook/pythonbook.pdf"><b>Python Fundamentals</b></a> - Rick Halterman PhD<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://archive.org/details/2018Fundamentals.ofPython"><b>Python Fundamentals</b></a> - Rick Halterman PhD<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://amzn.to/2x0XgZG"><b>Tableau</b></a> - Big Book of Dashboards<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://danaernst.com/resources/free-and-open-source-textbooks/"><b>Open Source CS</b></a> - Free Textbooks<br>
  
@@ -70,7 +70,7 @@ The following are python, statistics, and machine learning recommended resources
 ##### :black_small_square: Python Documentation
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pandas.pydata.org/pandas-docs/stable/pandas.pdf"><b>Pandas</b></a> - Stable Docs<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://matplotlib.org/3.1.1/Matplotlib.pdf"><b>Matplotlib</b></a> - 3.1.1 Docs<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://matplotlib.org/3.3.3/Matplotlib.pdf"><b>Matplotlib</b></a> - 3.3.3 Docs<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://scikit-learn.org/stable/documentation.html"><b>Sci-kit Learn</b></a> - Docs<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://docs.scipy.org/doc/"><b>Scipy and Numpy</b></a> - Docs<br>
 
@@ -97,7 +97,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Avik-Jain/100-Days-Of-ML-Code"><b>ML Code</b></a> 100 Days of Practice<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.dezyre.com/article/data-analyst-interview-questions-to-prepare-for-in-2018/324"><b>Data Analyst</b></a> 100 Questions<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.interviewcake.com/"><b>Interview Cake</b></a> FAANG Practice Questions<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/markdown_reference.md"><b>Markdown</b></a> -  Framework for Formatting Text<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/data_science_resources/blob/master/02_markdown_reference.md"><b>Markdown</b></a> -  Framework for Formatting Text<br>
 
 ##### :black_small_square: Applied Research & Development
 <p> 
@@ -113,7 +113,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rushter/data-science-blogs"><b>DS Blogs</b></a> - Curated Top Blogs on Data Science<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g/videos"><b>Ctrl Shift Face</b></a> - Deep Fake Videos<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://thispersondoesnotexist.com/"><b>This Person Does Not Exist</b></a> - Style GAN<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://aiportraits.com/"><b>AI Portraits</b></a> - Create Your own<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://portraitai.app/"><b>AI Portraits</b></a> - Create Your own<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tiobe.com/tiobe-index/"><b>Tiobe</b></a> - Most Popular Programming Languages<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pair.withgoogle.com/guidebook"><b>PAIR</b></a> - People + AI Guidebook (Google)<br>
  
@@ -133,7 +133,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://experiments.withgoogle.com/ai/giorgio-cam/view/"><b>Giorgio Picture Cam</b></a> (Google)<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://experiments.withgoogle.com/ai/drum-machine/view/"><b>Infinite Drum Machine</b></a> (Google)<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://magenta.tensorflow.org/demos/"><b>Magenta Demos</b></a> (Google)<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://selfdrivingcars.mit.edu/deeptraffic/"><b>Self-Driving</b></a> - MIT Demo<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://towardsdatascience.com/deeptraffic-dqn-tuning-for-traffic-navigation-75-01-mph-solution-23087e2411cf"><b>Self-Driving</b></a> - MIT Demo<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://poloclub.github.io/ganlab/"><b>GANs</b></a> - Demo<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://ganpaint.io/demo/?project=church"><b>GAN Paint</b></a> - Studio<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.dlology.com/blog/top-10-deep-learning-experiences-run-on-your-browser/"><b>Deep Learning</b></a> - Browser Experiences<br>
@@ -154,4 +154,4 @@ License
 
 [![CC-4.0-by-nc-nd](https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-To the extent possible under law, [David Yakobovitch](http://davidyakobovitch.com/) has licensed this work under Creative Commons, 4.0-NC-ND.  This [license](https://creativecommons.org/licenses/by-nc-nd/4.0/) is the most restrictive of Creative Commons six main licenses, only allowing others to download your works and share them with others as long as they credit the author, but they can’t change them in any way or use them commercially.
+To the extent possible under law, [David Yakobovitch](https://www.linkedin.com/in/davidyakobovitch/) has licensed this work under Creative Commons, 4.0-NC-ND.  This [license](https://creativecommons.org/licenses/by-nc-nd/4.0/) is the most restrictive of Creative Commons six main licenses, only allowing others to download your works and share them with others as long as they credit the author, but they can’t change them in any way or use them commercially.
