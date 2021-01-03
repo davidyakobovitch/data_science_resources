@@ -4,20 +4,22 @@
 
 The following are python, statistics, and machine learning recommended resources, to assist you during your data science and machine learning studies. If you are searching for public workshops I have participated in, they are now organized under the [dyakobovitch-talks organization](https://github.com/dyakobovitch-talks).
 <hr>
+
 <p align="center">
   <a href="#essential-links">Essentials Links</a> •
   <a href="#pre-data-science">Pre Data Science</a> •
   <a href="#version-control">Version Control</a> •
   <a href="#data-engineering">Data Engineering</a> •
   <a href="#statistics">Statistics</a> •
-  <a href="#data-science">Data Science</a>
-  <a href="#python-docs">Python Docs</a>
-  <a href="#code-challenges">Code Challenges</a>
-  <a href="#interview-prep">Interview Prep</a>
-  <a href="#r&d">R&D</a>
-  <a href="#ai-demos">AI Demos</a>
+  <a href="#data-science">Data Science</a> •
+  <a href="#python-docs">Python Docs</a> •
+  <a href="#code-challenges">Code Challenges</a> •
+  <a href="#interview-prep">Interview Prep</a> •
+  <a href="#research">Research</a> •
+  <a href="#ai-demos">AI Demos</a> •
   <a href="#workspace">Workspace</a>
 </p>
+
 ## Essential Links
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/data_science_standards"><b>Data Science Standards</b></a> - How to Operationalize Machine Learning Pipelines<br>
@@ -26,14 +28,16 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/open_data_sets.md"><b>Open Source Data Sets</b></a> - Data Lakes, APIs & Sets for Machine Learning<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kamranahmedse/developer-roadmap"><b>Developer Roadmap</b></a> -  Tools to Excel in Tech<br>  
 <hr>
-### Pre Data Science
+
+## Pre Data Science
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://openbookproject.net/thinkcs/python/english3e/"><b>How to Think Like a Computer Scientist</b></a> - Open source for Scientific Computing<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://archive.org/details/2018Fundamentals.ofPython"><b>Python Fundamentals</b></a> - Rick Halterman PhD<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://amzn.to/2x0XgZG"><b>Tableau</b></a> - Big Book of Dashboards<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://danaernst.com/resources/free-and-open-source-textbooks/"><b>Open Source CS</b></a> - Free Textbooks<br>
 <hr>
-### Version Control
+
+## Version Control
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://swcarpentry.github.io/git-novice/"><b>Software Carpentry</b></a> - Open source for Scientific Computing<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://git-scm.com/book/en/v2"><b>Git Book</b></a> - Official Git Documentation<br>
@@ -42,6 +46,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.toptal.com/git/the-advanced-git-guide"><b>Toptal - Tips</b></a> - Advanced Topics<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.atlassian.com/git/tutorials/what-is-version-control"><b>Atlassian</b></a> - Version Control Topics<br>
 <hr>
+
 ## Data Engineering
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://amzn.to/2SKUpyj"><b>SQL Cookbook</b></a> - Learn Essentials of SQL Syntax<br>
@@ -52,7 +57,8 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/"><b>Design Data-Intensive Applications</b></a> - System Design for Data<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491972955"><b>Advanced Analytics with Spark</b></a> - Perform KPI Analysis<br>
 <hr>
-### Statistics
+
+## Statistics
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="http://www-bcf.usc.edu/~gareth/ISL/">Intro to Stats Learning</a></strong> (Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://sites.google.com/site/fundamentalstatistics/">Fundamental Statistics</a></strong> (Bryan R. Burnham) <br>
@@ -64,7 +70,8 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="http://opendatastructures.org/mcs.pdf">Math for Computer Science</a></strong> (Eric Lehman, F Thomson Leighton, Albert R Meyer) <br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://mml-book.github.io/book/mml-book.pdf">Math for Machine Learning</a></strong> (Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong) <br>
 <hr>
-### Data Science
+
+## Data Science
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2kXTyKT">Python for Data Analysis</a></strong> and <a href="https://github.com/wesm/pydata-book">Github</a> (Wes McKinney)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2sJaol0">Feature Engineering</a></strong> and <a href="https://github.com/divyasusarla/features">Github</a> (Sinan Ozdemir, Divya Susarla)<br>
@@ -80,6 +87,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2MRpU6D">Deep Learning</a></strong> and <a href="http://www.deeplearningbook.org/exercises.html">Code</a> (Ian Goodfellow)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf">Data Science Yearning - Draft</a></strong> (Andrew Ng)<br>
 <hr>
+
 ## Python Docs
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pandas.pydata.org/pandas-docs/stable/pandas.pdf"><b>Pandas</b></a> - Stable Docs<br>
@@ -87,6 +95,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://scikit-learn.org/stable/documentation.html"><b>Sci-kit Learn</b></a> - Docs<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://docs.scipy.org/doc/"><b>Scipy and Numpy</b></a> - Docs<br>
 <hr>
+
 ## Code Challenges
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.codewars.com/"><b>Code Wars</b></a> - Programming challenges that are progressively harder.<br>
@@ -96,7 +105,8 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.kaggle.com/"><b>Kaggle</b></a> - Data Science competitions<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.coderbyte.com/"><b>CoderByte</b></a> - Code challenges from FAANG companies<br>
 <hr>
-### Interview Prep
+
+## Interview Prep
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/yangshun/tech-interview-handbook"><b>Tech Interview Handbook</b></a> - Best Practices for technical interviews<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://bigocheatsheet.com/"><b>Big O Notation</b></a><br>
@@ -112,7 +122,8 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.interviewcake.com/"><b>Interview Cake</b></a> FAANG Practice Questions<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/data_science_resources/blob/master/02_markdown_reference.md"><b>Markdown</b></a> -  Framework for Formatting Text<br>
 <hr>
-### R&D
+
+## Research
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://paperswithcode.com/sota"><b>State of the Art</b></a> - ML Papers w/ Code<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.arxiv-sanity.com/"><b>Arxiv Reports</b></a> ArXiv Sanity<br>
@@ -130,6 +141,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tiobe.com/tiobe-index/"><b>Tiobe</b></a> - Most Popular Programming Languages<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pair.withgoogle.com/guidebook"><b>PAIR</b></a> - People + AI Guidebook (Google)<br>
 <hr>
+
 ## AI Demos
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://playground.tensorflow.org"><b>TensorFlow Playground</b></a> - Neural Networks Demo<br>
@@ -154,12 +166,14 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://detectfakes.media.mit.edu/"><b>Deepfake Detector</b></a> - MIT<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.thisworddoesnotexist.com"><b>This Word Does Not Exist</b></a> - Tranformer Demo<br>
 <hr>
+
 ## Workspace 
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://amzn.to/2O7AWom"><b>Dual Arm Monitor</b></a><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://amzn.to/2LNN0ym"><b>LED Mountable Monitor</b></a><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wayfair.com/furniture/pdp/comm-office-belda-standing-desk-w001708621.html?piid=1962783974"><b>Standing Desk</b></a><br>
 <hr>
+
 ## Licenses
 License
 
