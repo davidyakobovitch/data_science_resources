@@ -174,6 +174,10 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wayfair.com/furniture/pdp/comm-office-belda-standing-desk-w001708621.html?piid=1962783974"><b>Standing Desk</b></a><br>
 <hr>
 
+## Support
+
+<a href="https://www.buymeacoffee.com/yako" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ## Licenses
 License
 
