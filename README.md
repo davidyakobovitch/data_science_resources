@@ -86,6 +86,7 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2xY516n">Image Processing - Python</a></strong> and <a href="https://github.com/mbeyeler/opencv-machine-learning">Github</a> (Michael Beyeler)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2MRpU6D">Deep Learning</a></strong> and <a href="http://www.deeplearningbook.org/exercises.html">Code</a> (Ian Goodfellow)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf">Data Science Yearning - Draft</a></strong> (Andrew Ng)<br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://github.com/stevekwon211/Hello-Kaggle">Hello Kaggle!</a></strong> (stevekwon211)<br>
 <hr>
 
 ## Python Docs
