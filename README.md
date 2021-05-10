@@ -24,7 +24,6 @@ The following are python, statistics, and machine learning recommended resources
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/data_science_standards"><b>Data Science Standards</b></a> - How to Operationalize Machine Learning Pipelines<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="http://www.humainpodcast.com"><b>HumAIn Podcast</b></a> - Human Centered Thought Leadership Podcast<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://towardsdatascience.com/data-science-design-thinking-658a4f293a1c"><b>Design Thinking</b></a> - Common Questions for Data Science<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/davidyakobovitch/python_data_science_resources/blob/master/open_data_sets.md"><b>Open Source Data Sets</b></a> - Data Lakes, APIs & Sets for Machine Learning<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kamranahmedse/developer-roadmap"><b>Developer Roadmap</b></a> -  Tools to Excel in Tech<br>  
 <hr>
