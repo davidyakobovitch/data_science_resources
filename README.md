@@ -140,7 +140,8 @@ The following are python, statistics, and machine learning recommended resources
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tiobe.com/tiobe-index/"><b>Tiobe</b></a> - Most Popular Programming Languages<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://pair.withgoogle.com/guidebook"><b>PAIR</b></a> - People + AI Guidebook (Google)<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://papers.labml.ai/papers/daily"><b>LabML</b></a> - Daily Research Papers<br>
- 
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://betterimagesofai.org/images"><b>Better Images of AI</b></a> - Open Source Images<br>
+
 <hr>
 
 ## AI Demos
