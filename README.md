@@ -74,7 +74,7 @@ The following are python, statistics, and machine learning recommended resources
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2kXTyKT">Python for Data Analysis</a></strong> and <a href="https://github.com/wesm/pydata-book">Github</a> (Wes McKinney)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2sJaol0">Feature Engineering</a></strong> and <a href="https://github.com/divyasusarla/features">Github</a> (Sinan Ozdemir, Divya Susarla)<br>
-&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2sK5Pa5">Hands on Machine Learning</a></strong> and <a href="https://github.com/ageron/handson-ml">Github</a> (Aurélien Geron)<br>
+&nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2sK5Pa5">Hands on Machine Learning</a></strong> and <a href="https://github.com/ageron/handson-ml2">Github</a> (Aurélien Geron)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2LD3vsw">Python Data Science Handbook</a></strong> and <a href="https://github.com/jakevdp/PythonDataScienceHandbook">Github</a> (Jake VanderPlas)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists-ebook/dp/B01M0LNE8C">Introduction to Machine Learning</a></strong> and <a href="https://github.com/amueller/introduction_to_ml_with_python">Github</a> (Andreas C. Müller and Sarah Guido)<br>
 &nbsp;&nbsp;:small_orange_diamond: <strong><a href="https://amzn.to/2kYxIGZ">Introduction to ML/Deep Learning</a></strong> and <a href="https://github.com/rasbt/python-machine-learning-book-2nd-edition">Github</a> (Sebastian Raschka, Vahid Mirjalili)<br>
