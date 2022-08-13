@@ -49,7 +49,7 @@ The following are python, statistics, and machine learning recommended resources
 ## Data Engineering
 <p> 
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://amzn.to/2SKUpyj"><b>SQL Cookbook</b></a> - Learn Essentials of SQL Syntax<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.w3schools.com/sql/"><b>W3 SQL</b></a>, <a href="https://www.w3schools.com/sql/"><b>Mode SQL</b></a>, <a href="https://sqlzoo.net/"><b>SQL Zoo</b></a> <br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.w3schools.com/sql/"><b>W3 SQL</b></a>, <a href="https://mode.com/sql-tutorial/"><b>Mode SQL</b></a>, <a href="https://sqlzoo.net/"><b>SQL Zoo</b></a> <br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/"><b>Seven Databases in Seven Week</b></a> - Databases for Big Data<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287/"><b>High Performance MySQL</b></a> - Executing Fast Queries<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.amazon.com/REST-APIs-Django-powerful-Python/dp/198302998X/"><b>REST APIs with Django</b></a> - Working with Applications<br>
